@@ -1,0 +1,23 @@
+{
+    "name": "s36-mysql-data-api",
+    "version": "0.01.010",
+    "author": "Robin Mattern",
+    "license": "ISC",
+    "dependencies": {
+    },
+    "scripts": {
+        "start": "bash server.sh"
+      },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }

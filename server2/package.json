@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-express-json-server",
+  "description": "Installs JSON-Server module for developing API apps that return JSON data",
+  "version": "0.1.5",
+  "author": "Bruce Troutman",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": ""
+  },
+  "scripts": {
+    "start": "echo npm ERROR: * You must be in an app folder to start app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
