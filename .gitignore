@@ -1,0 +1,10 @@
+._*
+*_v[0-9]*
+*DS_Store
+package-lock.json
+node_modules
+build
+.env
+_env
+doc
+wip

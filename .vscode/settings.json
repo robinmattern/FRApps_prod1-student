@@ -1,0 +1,16 @@
+{
+    "docsify.port" : 55000
+
+  , "liveServer.settings.port": 5500
+  , "liveServer.settings.NoBrowser": false    
+  , "liveServer.settings.CustomBrowser": "chrome"
+  
+  , "typescript.validate.enable": false
+ 
+  , "files.associations": { "*.mjs": "javascript", "*.njs": "javascript"  }
+
+  , "git-graph.referenceLabels.alignment": "Branches (aligned to the graph) & Tags (on the right)"
+  , "git-graph.commitDetailsView.fileView.fileTree.compactFolders": false
+  , "git-graph.commitDetailsView.autoCenter": false
+
+  }

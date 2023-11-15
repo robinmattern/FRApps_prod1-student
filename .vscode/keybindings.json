@@ -1,0 +1,29 @@
+[
+  { "key" : "cmd+shift+d"         , "command": "workbench.action.tasks.runTask"
+  , "args": "Exec DOS Command - Cmd+Shift+D",  "when": "editorTextFocus" }
+
+, { "key" : "cmd+shift+h"         , "command": "workbench.action.tasks.runTask"
+  , "args": "Exec BASH Script - Cmd+Shift+H",  "when": "editorTextFocus" }
+
+, { "key" : "cmd+shift+g"         , "command": "workbench.action.tasks.runTask"
+  , "args": "Open Git Shell - Cmd+Shift+G"                               }    
+
+, { "key" : "cmd+shift+n"         , "command": "workbench.action.tasks.runTask"
+  , "args": "Run NodeJS Script - Cmd+Shift+N", "when": "editorTextFocus" }
+
+, { "key" : "alt+b"               , "command": "workbench.action.tasks.runTask"                    
+  , "args": "Open Chrome",             "when": "editorTextFocus"         }                                 
+
+, { "key" : "alt+d"               , "command": "workbench.action.tasks.runTask"                    
+  , "args": "Open Docs"                         }                                                  
+
+, { "key" : "alt+n"               , "command": "workbench.action.tasks.runTask"                    
+  , "args": "Open App Doc"                      }                                                 
+
+, { "key" : "alt+t"               , "command": "workbench.action.tasks.runTask"                   
+  , "args": "Open in TextPad"                   }                                                 
+
+, { "key" : "alt+x"               , "command": "workbench.action.tasks.runTask"                   
+  , "args": "Run Tasks"                         }                                                 
+     ] 
+
