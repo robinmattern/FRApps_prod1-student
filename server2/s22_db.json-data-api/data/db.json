@@ -1,0 +1,5999 @@
+﻿{
+  "countries": [{"Code":"AFG","Name":"Afghanistan","Continent":"Asia","SurfaceArea":"652,090","Population":"22,720,000"},{"Code":"ALB","Name":"Albania","Continent":"Europe","SurfaceArea":"28,748","Population":"3,401,200"},{"Code":"DZA","Name":"Algeria","Continent":"Africa","SurfaceArea":"2,381,741","Population":"31,471,000"},{"Code":"ASM","Name":"American Samoa","Continent":"Oceania","SurfaceArea":"199","Population":"68,000"},{"Code":"AND","Name":"Andorra","Continent":"Europe","SurfaceArea":"468","Population":"78,000"},{"Code":"AGO","Name":"Angola","Continent":"Africa","SurfaceArea":"1,246,700","Population":"12,878,000"},{"Code":"AIA","Name":"Anguilla","Continent":"North America","SurfaceArea":"96","Population":"8,000"},{"Code":"ATA","Name":"Antarctica","Continent":"Antarctica","SurfaceArea":"13,120,000","Population":"0"},{"Code":"ATG","Name":"Antigua and Barbuda","Continent":"North America","SurfaceArea":"442","Population":"68,000"},{"Code":"ARG","Name":"Argentina","Continent":"South America","SurfaceArea":"2,780,400","Population":"37,032,000"},{"Code":"ARM","Name":"Armenia","Continent":"Asia","SurfaceArea":"29,800","Population":"3,520,000"},{"Code":"ABW","Name":"Aruba","Continent":"North America","SurfaceArea":"193","Population":"103,000"},{"Code":"AUS","Name":"Australia","Continent":"Oceania","SurfaceArea":"7,741,220","Population":"18,886,000"},{"Code":"AUT","Name":"Austria","Continent":"Europe","SurfaceArea":"83,859","Population":"8,091,800"},{"Code":"AZE","Name":"Azerbaijan","Continent":"Asia","SurfaceArea":"86,600","Population":"7,734,000"},{"Code":"BHS","Name":"Bahamas","Continent":"North America","SurfaceArea":"13,878","Population":"307,000"},{"Code":"BHR","Name":"Bahrain","Continent":"Asia","SurfaceArea":"694","Population":"617,000"},{"Code":"BGD","Name":"Bangladesh","Continent":"Asia","SurfaceArea":"143,998","Population":"129,155,000"},{"Code":"BRB","Name":"Barbados","Continent":"North America","SurfaceArea":"430","Population":"270,000"},{"Code":"BLR","Name":"Belarus","Continent":"Europe","SurfaceArea":"207,600","Population":"10,236,000"},{"Code":"BEL","Name":"Belgium","Continent":"Europe","SurfaceArea":"30,518","Population":"10,239,000"},{"Code":"BLZ","Name":"Belize","Continent":"North America","SurfaceArea":"22,696","Population":"241,000"},{"Code":"BEN","Name":"Benin","Continent":"Africa","SurfaceArea":"112,622","Population":"6,097,000"},{"Code":"BMU","Name":"Bermuda","Continent":"North America","SurfaceArea":"53","Population":"65,000"},{"Code":"BTN","Name":"Bhutan","Continent":"Asia","SurfaceArea":"47,000","Population":"2,124,000"},{"Code":"BOL","Name":"Bolivia","Continent":"South America","SurfaceArea":"1,098,581","Population":"8,329,000"},{"Code":"BIH","Name":"Bosnia and Herzegovina","Continent":"Europe","SurfaceArea":"51,197","Population":"3,972,000"},{"Code":"BWA","Name":"Botswana","Continent":"Africa","SurfaceArea":"581,730","Population":"1,622,000"},{"Code":"BVT","Name":"Bouvet Island","Continent":"Antarctica","SurfaceArea":"59","Population":"0"},{"Code":"BRA","Name":"Brazil","Continent":"South America","SurfaceArea":"8,547,403","Population":"170,115,000"},{"Code":"IOT","Name":"British Indian Ocean Territory","Continent":"Africa","SurfaceArea":"78","Population":"0"},{"Code":"BRN","Name":"Brunei","Continent":"Asia","SurfaceArea":"5,765","Population":"328,000"},{"Code":"BGR","Name":"Bulgaria","Continent":"Europe","SurfaceArea":"110,994","Population":"8,190,900"},{"Code":"BFA","Name":"Burkina Faso","Continent":"Africa","SurfaceArea":"274,000","Population":"11,937,000"},{"Code":"BDI","Name":"Burundi","Continent":"Africa","SurfaceArea":"27,834","Population":"6,695,000"},{"Code":"KHM","Name":"Cambodia","Continent":"Asia","SurfaceArea":"181,035","Population":"11,168,000"},{"Code":"CMR","Name":"Cameroon","Continent":"Africa","SurfaceArea":"475,442","Population":"15,085,000"},{"Code":"CAN","Name":"Canada","Continent":"North America","SurfaceArea":"9,970,610","Population":"31,147,000"},{"Code":"CPV","Name":"Cape Verde","Continent":"Africa","SurfaceArea":"4,033","Population":"428,000"},{"Code":"CYM","Name":"Cayman Islands","Continent":"North America","SurfaceArea":"264","Population":"38,000"},{"Code":"CIV","Name":"CÃ´te dÂ’Ivoire","Continent":"Africa","SurfaceArea":"322,463","Population":"14,786,000"},{"Code":"CAF","Name":"Central African Republic","Continent":"Africa","SurfaceArea":"622,984","Population":"3,615,000"},{"Code":"TCD","Name":"Chad","Continent":"Africa","SurfaceArea":"1,284,000","Population":"7,651,000"},{"Code":"CHL","Name":"Chile","Continent":"South America","SurfaceArea":"756,626","Population":"15,211,000"},{"Code":"CHN","Name":"China","Continent":"Asia","SurfaceArea":"9,572,900","Population":"1,277,558,000"},{"Code":"CXR","Name":"Christmas Island","Continent":"Oceania","SurfaceArea":"135","Population":"2,500"},{"Code":"CCK","Name":"Cocos (Keeling) Islands","Continent":"Oceania","SurfaceArea":"14","Population":"600"},{"Code":"COL","Name":"Colombia","Continent":"South America","SurfaceArea":"1,138,914","Population":"42,321,000"},{"Code":"COM","Name":"Comoros","Continent":"Africa","SurfaceArea":"1,862","Population":"578,000"},{"Code":"COG","Name":"Congo","Continent":"Africa","SurfaceArea":"342,000","Population":"2,943,000"},{"Code":"COD","Name":"Congo, The Democratic Republic of the","Continent":"Africa","SurfaceArea":"2,344,858","Population":"51,654,000"},{"Code":"COK","Name":"Cook Islands","Continent":"Oceania","SurfaceArea":"236","Population":"20,000"},{"Code":"CRI","Name":"Costa Rica","Continent":"North America","SurfaceArea":"51,100","Population":"4,023,000"},{"Code":"HRV","Name":"Croatia","Continent":"Europe","SurfaceArea":"56,538","Population":"4,473,000"},{"Code":"CUB","Name":"Cuba","Continent":"North America","SurfaceArea":"110,861","Population":"11,201,000"},{"Code":"CYP","Name":"Cyprus","Continent":"Asia","SurfaceArea":"9,251","Population":"754,700"},{"Code":"CZE","Name":"Czech Republic","Continent":"Europe","SurfaceArea":"78,866","Population":"10,278,100"},{"Code":"DNK","Name":"Denmark","Continent":"Europe","SurfaceArea":"43,094","Population":"5,330,000"},{"Code":"DJI","Name":"Djibouti","Continent":"Africa","SurfaceArea":"23,200","Population":"638,000"},{"Code":"DMA","Name":"Dominica","Continent":"North America","SurfaceArea":"751","Population":"71,000"},{"Code":"DOM","Name":"Dominican Republic","Continent":"North America","SurfaceArea":"48,511","Population":"8,495,000"},{"Code":"TMP","Name":"East Timor","Continent":"Asia","SurfaceArea":"14,874","Population":"885,000"},{"Code":"ECU","Name":"Ecuador","Continent":"South America","SurfaceArea":"283,561","Population":"12,646,000"},{"Code":"EGY","Name":"Egypt","Continent":"Africa","SurfaceArea":"1,001,449","Population":"68,470,000"},{"Code":"SLV","Name":"El Salvador","Continent":"North America","SurfaceArea":"21,041","Population":"6,276,000"},{"Code":"GNQ","Name":"Equatorial Guinea","Continent":"Africa","SurfaceArea":"28,051","Population":"453,000"},{"Code":"ERI","Name":"Eritrea","Continent":"Africa","SurfaceArea":"117,600","Population":"3,850,000"},{"Code":"EST","Name":"Estonia","Continent":"Europe","SurfaceArea":"45,227","Population":"1,439,200"},{"Code":"ETH","Name":"Ethiopia","Continent":"Africa","SurfaceArea":"1,104,300","Population":"62,565,000"},{"Code":"FLK","Name":"Falkland Islands","Continent":"South America","SurfaceArea":"12,173","Population":"2,000"},{"Code":"FRO","Name":"Faroe Islands","Continent":"Europe","SurfaceArea":"1,399","Population":"43,000"},{"Code":"FJI","Name":"Fiji Islands","Continent":"Oceania","SurfaceArea":"18,274","Population":"817,000"},{"Code":"FIN","Name":"Finland","Continent":"Europe","SurfaceArea":"338,145","Population":"5,171,300"},{"Code":"FRA","Name":"France","Continent":"Europe","SurfaceArea":"551,500","Population":"59,225,700"},{"Code":"GUF","Name":"French Guiana","Continent":"South America","SurfaceArea":"90,000","Population":"181,000"},{"Code":"PYF","Name":"French Polynesia","Continent":"Oceania","SurfaceArea":"4,000","Population":"235,000"},{"Code":"ATF","Name":"French Southern territories","Continent":"Antarctica","SurfaceArea":"7,780","Population":"0"},{"Code":"GAB","Name":"Gabon","Continent":"Africa","SurfaceArea":"267,668","Population":"1,226,000"},{"Code":"GMB","Name":"Gambia","Continent":"Africa","SurfaceArea":"11,295","Population":"1,305,000"},{"Code":"GEO","Name":"Georgia","Continent":"Asia","SurfaceArea":"69,700","Population":"4,968,000"},{"Code":"DEU","Name":"Germany","Continent":"Europe","SurfaceArea":"357,022","Population":"82,164,700"},{"Code":"GHA","Name":"Ghana","Continent":"Africa","SurfaceArea":"238,533","Population":"20,212,000"},{"Code":"GIB","Name":"Gibraltar","Continent":"Europe","SurfaceArea":"6","Population":"25,000"},{"Code":"GRC","Name":"Greece","Continent":"Europe","SurfaceArea":"131,626","Population":"10,545,700"},{"Code":"GRL","Name":"Greenland","Continent":"North America","SurfaceArea":"2,166,090","Population":"56,000"},{"Code":"GRD","Name":"Grenada","Continent":"North America","SurfaceArea":"344","Population":"94,000"},{"Code":"GLP","Name":"Guadeloupe","Continent":"North America","SurfaceArea":"1,705","Population":"456,000"},{"Code":"GUM","Name":"Guam","Continent":"Oceania","SurfaceArea":"549","Population":"168,000"},{"Code":"GTM","Name":"Guatemala","Continent":"North America","SurfaceArea":"108,889","Population":"11,385,000"},{"Code":"GIN","Name":"Guinea","Continent":"Africa","SurfaceArea":"245,857","Population":"7,430,000"},{"Code":"GNB","Name":"Guinea-Bissau","Continent":"Africa","SurfaceArea":"36,125","Population":"1,213,000"},{"Code":"GUY","Name":"Guyana","Continent":"South America","SurfaceArea":"214,969","Population":"861,000"},{"Code":"HTI","Name":"Haiti","Continent":"North America","SurfaceArea":"27,750","Population":"8,222,000"},{"Code":"HMD","Name":"Heard Island and McDonald Islands","Continent":"Antarctica","SurfaceArea":"359","Population":"0"},{"Code":"VAT","Name":"Holy See (Vatican City State)","Continent":"Europe","SurfaceArea":"0","Population":"1,000"},{"Code":"HND","Name":"Honduras","Continent":"North America","SurfaceArea":"112,088","Population":"6,485,000"},{"Code":"HKG","Name":"Hong Kong","Continent":"Asia","SurfaceArea":"1,075","Population":"6,782,000"},{"Code":"HUN","Name":"Hungary","Continent":"Europe","SurfaceArea":"93,030","Population":"10,043,200"},{"Code":"ISL","Name":"Iceland","Continent":"Europe","SurfaceArea":"103,000","Population":"279,000"},{"Code":"IND","Name":"India","Continent":"Asia","SurfaceArea":"3,287,263","Population":"1,013,662,000"},{"Code":"IDN","Name":"Indonesia","Continent":"Asia","SurfaceArea":"1,904,569","Population":"212,107,000"},{"Code":"IRN","Name":"Iran","Continent":"Asia","SurfaceArea":"1,648,195","Population":"67,702,000"},{"Code":"IRQ","Name":"Iraq","Continent":"Asia","SurfaceArea":"438,317","Population":"23,115,000"},{"Code":"IRL","Name":"Ireland","Continent":"Europe","SurfaceArea":"70,273","Population":"3,775,100"},{"Code":"ISR","Name":"Israel","Continent":"Asia","SurfaceArea":"21,056","Population":"6,217,000"},{"Code":"ITA","Name":"Italy","Continent":"Europe","SurfaceArea":"301,316","Population":"57,680,000"},{"Code":"JAM","Name":"Jamaica","Continent":"North America","SurfaceArea":"10,990","Population":"2,583,000"},{"Code":"JPN","Name":"Japan","Continent":"Asia","SurfaceArea":"377,829","Population":"126,714,000"},{"Code":"JOR","Name":"Jordan","Continent":"Asia","SurfaceArea":"88,946","Population":"5,083,000"},{"Code":"KAZ","Name":"Kazakstan","Continent":"Asia","SurfaceArea":"2,724,900","Population":"16,223,000"},{"Code":"KEN","Name":"Kenya","Continent":"Africa","SurfaceArea":"580,367","Population":"30,080,000"},{"Code":"KIR","Name":"Kiribati","Continent":"Oceania","SurfaceArea":"726","Population":"83,000"},{"Code":"KWT","Name":"Kuwait","Continent":"Asia","SurfaceArea":"17,818","Population":"1,972,000"},{"Code":"KGZ","Name":"Kyrgyzstan","Continent":"Asia","SurfaceArea":"199,900","Population":"4,699,000"},{"Code":"LAO","Name":"Laos","Continent":"Asia","SurfaceArea":"236,800","Population":"5,433,000"},{"Code":"LVA","Name":"Latvia","Continent":"Europe","SurfaceArea":"64,589","Population":"2,424,200"},{"Code":"LBN","Name":"Lebanon","Continent":"Asia","SurfaceArea":"10,400","Population":"3,282,000"},{"Code":"LSO","Name":"Lesotho","Continent":"Africa","SurfaceArea":"30,355","Population":"2,153,000"},{"Code":"LBR","Name":"Liberia","Continent":"Africa","SurfaceArea":"111,369","Population":"3,154,000"},{"Code":"LBY","Name":"Libyan Arab Jamahiriya","Continent":"Africa","SurfaceArea":"1,759,540","Population":"5,605,000"},{"Code":"LIE","Name":"Liechtenstein","Continent":"Europe","SurfaceArea":"160","Population":"32,300"},{"Code":"LTU","Name":"Lithuania","Continent":"Europe","SurfaceArea":"65,301","Population":"3,698,500"},{"Code":"LUX","Name":"Luxembourg","Continent":"Europe","SurfaceArea":"2,586","Population":"435,700"},{"Code":"MAC","Name":"Macao","Continent":"Asia","SurfaceArea":"18","Population":"473,000"},{"Code":"MKD","Name":"Macedonia","Continent":"Europe","SurfaceArea":"25,713","Population":"2,024,000"},{"Code":"MDG","Name":"Madagascar","Continent":"Africa","SurfaceArea":"587,041","Population":"15,942,000"},{"Code":"MWI","Name":"Malawi","Continent":"Africa","SurfaceArea":"118,484","Population":"10,925,000"},{"Code":"MYS","Name":"Malaysia","Continent":"Asia","SurfaceArea":"329,758","Population":"22,244,000"},{"Code":"MDV","Name":"Maldives","Continent":"Asia","SurfaceArea":"298","Population":"286,000"},{"Code":"MLI","Name":"Mali","Continent":"Africa","SurfaceArea":"1,240,192","Population":"11,234,000"},{"Code":"MLT","Name":"Malta","Continent":"Europe","SurfaceArea":"316","Population":"380,200"},{"Code":"MHL","Name":"Marshall Islands","Continent":"Oceania","SurfaceArea":"181","Population":"64,000"},{"Code":"MTQ","Name":"Martinique","Continent":"North America","SurfaceArea":"1,102","Population":"395,000"},{"Code":"MRT","Name":"Mauritania","Continent":"Africa","SurfaceArea":"1,025,520","Population":"2,670,000"},{"Code":"MUS","Name":"Mauritius","Continent":"Africa","SurfaceArea":"2,040","Population":"1,158,000"},{"Code":"MYT","Name":"Mayotte","Continent":"Africa","SurfaceArea":"373","Population":"149,000"},{"Code":"MEX","Name":"Mexico","Continent":"North America","SurfaceArea":"1,958,201","Population":"98,881,000"},{"Code":"FSM","Name":"Micronesia, Federated States of","Continent":"Oceania","SurfaceArea":"702","Population":"119,000"},{"Code":"MDA","Name":"Moldova","Continent":"Europe","SurfaceArea":"33,851","Population":"4,380,000"},{"Code":"MCO","Name":"Monaco","Continent":"Europe","SurfaceArea":"2","Population":"34,000"},{"Code":"MNG","Name":"Mongolia","Continent":"Asia","SurfaceArea":"1,566,500","Population":"2,662,000"},{"Code":"MSR","Name":"Montserrat","Continent":"North America","SurfaceArea":"102","Population":"11,000"},{"Code":"MAR","Name":"Morocco","Continent":"Africa","SurfaceArea":"446,550","Population":"28,351,000"},{"Code":"MOZ","Name":"Mozambique","Continent":"Africa","SurfaceArea":"801,590","Population":"19,680,000"},{"Code":"MMR","Name":"Myanmar","Continent":"Asia","SurfaceArea":"676,578","Population":"45,611,000"},{"Code":"NAM","Name":"Namibia","Continent":"Africa","SurfaceArea":"824,292","Population":"1,726,000"},{"Code":"NRU","Name":"Nauru","Continent":"Oceania","SurfaceArea":"21","Population":"12,000"},{"Code":"NPL","Name":"Nepal","Continent":"Asia","SurfaceArea":"147,181","Population":"23,930,000"},{"Code":"NLD","Name":"Netherlands","Continent":"Europe","SurfaceArea":"41,526","Population":"15,864,000"},{"Code":"ANT","Name":"Netherlands Antilles","Continent":"North America","SurfaceArea":"800","Population":"217,000"},{"Code":"NCL","Name":"New Caledonia","Continent":"Oceania","SurfaceArea":"18,575","Population":"214,000"},{"Code":"NZL","Name":"New Zealand","Continent":"Oceania","SurfaceArea":"270,534","Population":"3,862,000"},{"Code":"NIC","Name":"Nicaragua","Continent":"North America","SurfaceArea":"130,000","Population":"5,074,000"},{"Code":"NER","Name":"Niger","Continent":"Africa","SurfaceArea":"1,267,000","Population":"10,730,000"},{"Code":"NGA","Name":"Nigeria","Continent":"Africa","SurfaceArea":"923,768","Population":"111,506,000"},{"Code":"NIU","Name":"Niue","Continent":"Oceania","SurfaceArea":"260","Population":"2,000"},{"Code":"NFK","Name":"Norfolk Island","Continent":"Oceania","SurfaceArea":"36","Population":"2,000"},{"Code":"PRK","Name":"North Korea","Continent":"Asia","SurfaceArea":"120,538","Population":"24,039,000"},{"Code":"MNP","Name":"Northern Mariana Islands","Continent":"Oceania","SurfaceArea":"464","Population":"78,000"},{"Code":"NOR","Name":"Norway","Continent":"Europe","SurfaceArea":"323,877","Population":"4,478,500"},{"Code":"OMN","Name":"Oman","Continent":"Asia","SurfaceArea":"309,500","Population":"2,542,000"},{"Code":"PAK","Name":"Pakistan","Continent":"Asia","SurfaceArea":"796,095","Population":"156,483,000"},{"Code":"PLW","Name":"Palau","Continent":"Oceania","SurfaceArea":"459","Population":"19,000"},{"Code":"PSE","Name":"Palestine","Continent":"Asia","SurfaceArea":"6,257","Population":"3,101,000"},{"Code":"PAN","Name":"Panama","Continent":"North America","SurfaceArea":"75,517","Population":"2,856,000"},{"Code":"PNG","Name":"Papua New Guinea","Continent":"Oceania","SurfaceArea":"462,840","Population":"4,807,000"},{"Code":"PRY","Name":"Paraguay","Continent":"South America","SurfaceArea":"406,752","Population":"5,496,000"},{"Code":"PER","Name":"Peru","Continent":"South America","SurfaceArea":"1,285,216","Population":"25,662,000"},{"Code":"PHL","Name":"Philippines","Continent":"Asia","SurfaceArea":"300,000","Population":"75,967,000"},{"Code":"PCN","Name":"Pitcairn","Continent":"Oceania","SurfaceArea":"49","Population":"50"},{"Code":"POL","Name":"Poland","Continent":"Europe","SurfaceArea":"323,250","Population":"38,653,600"},{"Code":"PRT","Name":"Portugal","Continent":"Europe","SurfaceArea":"91,982","Population":"9,997,600"},{"Code":"PRI","Name":"Puerto Rico","Continent":"North America","SurfaceArea":"8,875","Population":"3,869,000"},{"Code":"QAT","Name":"Qatar","Continent":"Asia","SurfaceArea":"11,000","Population":"599,000"},{"Code":"REU","Name":"RÃ©union","Continent":"Africa","SurfaceArea":"2,510","Population":"699,000"},{"Code":"ROM","Name":"Romania","Continent":"Europe","SurfaceArea":"238,391","Population":"22,455,500"},{"Code":"RUS","Name":"Russian Federation","Continent":"Europe","SurfaceArea":"17,075,400","Population":"146,934,000"},{"Code":"RWA","Name":"Rwanda","Continent":"Africa","SurfaceArea":"26,338","Population":"7,733,000"},{"Code":"SHN","Name":"Saint Helena","Continent":"Africa","SurfaceArea":"314","Population":"6,000"},{"Code":"KNA","Name":"Saint Kitts and Nevis","Continent":"North America","SurfaceArea":"261","Population":"38,000"},{"Code":"LCA","Name":"Saint Lucia","Continent":"North America","SurfaceArea":"622","Population":"154,000"},{"Code":"SPM","Name":"Saint Pierre and Miquelon","Continent":"North America","SurfaceArea":"242","Population":"7,000"},{"Code":"VCT","Name":"Saint Vincent and the Grenadines","Continent":"North America","SurfaceArea":"388","Population":"114,000"},{"Code":"WSM","Name":"Samoa","Continent":"Oceania","SurfaceArea":"2,831","Population":"180,000"},{"Code":"SMR","Name":"San Marino","Continent":"Europe","SurfaceArea":"61","Population":"27,000"},{"Code":"STP","Name":"Sao Tome and Principe","Continent":"Africa","SurfaceArea":"964","Population":"147,000"},{"Code":"SAU","Name":"Saudi Arabia","Continent":"Asia","SurfaceArea":"2,149,690","Population":"21,607,000"},{"Code":"SEN","Name":"Senegal","Continent":"Africa","SurfaceArea":"196,722","Population":"9,481,000"},{"Code":"SYC","Name":"Seychelles","Continent":"Africa","SurfaceArea":"455","Population":"77,000"},{"Code":"SLE","Name":"Sierra Leone","Continent":"Africa","SurfaceArea":"71,740","Population":"4,854,000"},{"Code":"SGP","Name":"Singapore","Continent":"Asia","SurfaceArea":"618","Population":"3,567,000"},{"Code":"SVK","Name":"Slovakia","Continent":"Europe","SurfaceArea":"49,012","Population":"5,398,700"},{"Code":"SVN","Name":"Slovenia","Continent":"Europe","SurfaceArea":"20,256","Population":"1,987,800"},{"Code":"SLB","Name":"Solomon Islands","Continent":"Oceania","SurfaceArea":"28,896","Population":"444,000"},{"Code":"SOM","Name":"Somalia","Continent":"Africa","SurfaceArea":"637,657","Population":"10,097,000"},{"Code":"ZAF","Name":"South Africa","Continent":"Africa","SurfaceArea":"1,221,037","Population":"40,377,000"},{"Code":"SGS","Name":"South Georgia and the South Sandwich Islands","Continent":"Antarctica","SurfaceArea":"3,903","Population":"0"},{"Code":"KOR","Name":"South Korea","Continent":"Asia","SurfaceArea":"99,434","Population":"46,844,000"},{"Code":"ESP","Name":"Spain","Continent":"Europe","SurfaceArea":"505,992","Population":"39,441,700"},{"Code":"LKA","Name":"Sri Lanka","Continent":"Asia","SurfaceArea":"65,610","Population":"18,827,000"},{"Code":"SDN","Name":"Sudan","Continent":"Africa","SurfaceArea":"2,505,813","Population":"29,490,000"},{"Code":"SUR","Name":"Suriname","Continent":"South America","SurfaceArea":"163,265","Population":"417,000"},{"Code":"SJM","Name":"Svalbard and Jan Mayen","Continent":"Europe","SurfaceArea":"62,422","Population":"3,200"},{"Code":"SWZ","Name":"Swaziland","Continent":"Africa","SurfaceArea":"17,364","Population":"1,008,000"},{"Code":"SWE","Name":"Sweden","Continent":"Europe","SurfaceArea":"449,964","Population":"8,861,400"},{"Code":"CHE","Name":"Switzerland","Continent":"Europe","SurfaceArea":"41,284","Population":"7,160,400"},{"Code":"SYR","Name":"Syria","Continent":"Asia","SurfaceArea":"185,180","Population":"16,125,000"},{"Code":"TWN","Name":"Taiwan","Continent":"Asia","SurfaceArea":"36,188","Population":"22,256,000"},{"Code":"TJK","Name":"Tajikistan","Continent":"Asia","SurfaceArea":"143,100","Population":"6,188,000"},{"Code":"TZA","Name":"Tanzania","Continent":"Africa","SurfaceArea":"883,749","Population":"33,517,000"},{"Code":"THA","Name":"Thailand","Continent":"Asia","SurfaceArea":"513,115","Population":"61,399,000"},{"Code":"TGO","Name":"Togo","Continent":"Africa","SurfaceArea":"56,785","Population":"4,629,000"},{"Code":"TKL","Name":"Tokelau","Continent":"Oceania","SurfaceArea":"12","Population":"2,000"},{"Code":"TON","Name":"Tonga","Continent":"Oceania","SurfaceArea":"650","Population":"99,000"},{"Code":"TTO","Name":"Trinidad and Tobago","Continent":"North America","SurfaceArea":"5,130","Population":"1,295,000"},{"Code":"TUN","Name":"Tunisia","Continent":"Africa","SurfaceArea":"163,610","Population":"9,586,000"},{"Code":"TUR","Name":"Turkey","Continent":"Asia","SurfaceArea":"774,815","Population":"66,591,000"},{"Code":"TKM","Name":"Turkmenistan","Continent":"Asia","SurfaceArea":"488,100","Population":"4,459,000"},{"Code":"TCA","Name":"Turks and Caicos Islands","Continent":"North America","SurfaceArea":"430","Population":"17,000"},{"Code":"TUV","Name":"Tuvalu","Continent":"Oceania","SurfaceArea":"26","Population":"12,000"},{"Code":"UGA","Name":"Uganda","Continent":"Africa","SurfaceArea":"241,038","Population":"21,778,000"},{"Code":"UKR","Name":"Ukraine","Continent":"Europe","SurfaceArea":"603,700","Population":"50,456,000"},{"Code":"ARE","Name":"United Arab Emirates","Continent":"Asia","SurfaceArea":"83,600","Population":"2,441,000"},{"Code":"GBR","Name":"United Kingdom","Continent":"Europe","SurfaceArea":"242,900","Population":"59,623,400"},{"Code":"USA","Name":"United States","Continent":"North America","SurfaceArea":"9,363,520","Population":"278,357,000"},{"Code":"UMI","Name":"United States Minor Outlying Islands","Continent":"Oceania","SurfaceArea":"16","Population":"0"},{"Code":"URY","Name":"Uruguay","Continent":"South America","SurfaceArea":"175,016","Population":"3,337,000"},{"Code":"UZB","Name":"Uzbekistan","Continent":"Asia","SurfaceArea":"447,400","Population":"24,318,000"},{"Code":"VUT","Name":"Vanuatu","Continent":"Oceania","SurfaceArea":"12,189","Population":"190,000"},{"Code":"VEN","Name":"Venezuela","Continent":"South America","SurfaceArea":"912,050","Population":"24,170,000"},{"Code":"VNM","Name":"Vietnam","Continent":"Asia","SurfaceArea":"331,689","Population":"79,832,000"},{"Code":"VGB","Name":"Virgin Islands, British","Continent":"North America","SurfaceArea":"151","Population":"21,000"},{"Code":"VIR","Name":"Virgin Islands, U.S.","Continent":"North America","SurfaceArea":"347","Population":"93,000"},{"Code":"WLF","Name":"Wallis and Futuna","Continent":"Oceania","SurfaceArea":"200","Population":"15,000"},{"Code":"ESH","Name":"Western Sahara","Continent":"Africa","SurfaceArea":"266,000","Population":"293,000"},{"Code":"YEM","Name":"Yemen","Continent":"Asia","SurfaceArea":"527,968","Population":"18,112,000"},{"Code":"YUG","Name":"Yugoslavia","Continent":"Europe","SurfaceArea":"102,173","Population":"10,640,000"},{"Code":"ZMB","Name":"Zambia","Continent":"Africa","SurfaceArea":"752,618","Population":"9,169,000"},{"Code":"ZWE","Name":"Zimbabwe","Continent":"Africa","SurfaceArea":"390,757","Population":"11,669,000"}]
+, "cities": [
+    {
+      "RNo": 1,
+      "CountryCode": "ESP",
+      "CityName": "A CoruÃ±a (La CoruÃ±a)",
+      "Population": "243,402"
+    },
+    {
+      "RNo": 2,
+      "CountryCode": "DEU",
+      "CityName": "Aachen",
+      "Population": "243,825"
+    },
+    {
+      "RNo": 3,
+      "CountryCode": "DNK",
+      "CityName": "Aalborg",
+      "Population": "161,161"
+    },
+    {
+      "RNo": 4,
+      "CountryCode": "NGA",
+      "CityName": "Aba",
+      "Population": "298,900"
+    },
+    {
+      "RNo": 5,
+      "CountryCode": "IRN",
+      "CityName": "Abadan",
+      "Population": "206,073"
+    },
+    {
+      "RNo": 6,
+      "CountryCode": "BRA",
+      "CityName": "Abaetetuba",
+      "Population": "111,258"
+    },
+    {
+      "RNo": 7,
+      "CountryCode": "RUS",
+      "CityName": "Abakan",
+      "Population": "169,200"
+    },
+    {
+      "RNo": 8,
+      "CountryCode": "CAN",
+      "CityName": "Abbotsford",
+      "Population": "105,403"
+    },
+    {
+      "RNo": 9,
+      "CountryCode": "NGA",
+      "CityName": "Abeokuta",
+      "Population": "427,400"
+    },
+    {
+      "RNo": 10,
+      "CountryCode": "GBR",
+      "CityName": "Aberdeen",
+      "Population": "213,070"
+    },
+    {
+      "RNo": 11,
+      "CountryCode": "SAU",
+      "CityName": "Abha",
+      "Population": "112,300"
+    },
+    {
+      "RNo": 12,
+      "CountryCode": "CIV",
+      "CityName": "Abidjan",
+      "Population": "2,500,000"
+    },
+    {
+      "RNo": 13,
+      "CountryCode": "JPN",
+      "CityName": "Abiko",
+      "Population": "126,670"
+    },
+    {
+      "RNo": 14,
+      "CountryCode": "USA",
+      "CityName": "Abilene",
+      "Population": "115,930"
+    },
+    {
+      "RNo": 15,
+      "CountryCode": "IND",
+      "CityName": "Abohar",
+      "Population": "107,163"
+    },
+    {
+      "RNo": 16,
+      "CountryCode": "PAK",
+      "CityName": "Abottabad",
+      "Population": "106,000"
+    },
+    {
+      "RNo": 17,
+      "CountryCode": "ARE",
+      "CityName": "Abu Dhabi",
+      "Population": "398,695"
+    },
+    {
+      "RNo": 18,
+      "CountryCode": "NGA",
+      "CityName": "Abuja",
+      "Population": "350,100"
+    },
+    {
+      "RNo": 19,
+      "CountryCode": "MEX",
+      "CityName": "Acapulco de JuÃ¡rez",
+      "Population": "721,011"
+    },
+    {
+      "RNo": 20,
+      "CountryCode": "VEN",
+      "CityName": "Acarigua",
+      "Population": "158,954"
+    },
+    {
+      "RNo": 21,
+      "CountryCode": "MEX",
+      "CityName": "AcÃ¡mbaro",
+      "Population": "110,487"
+    },
+    {
+      "RNo": 22,
+      "CountryCode": "GHA",
+      "CityName": "Accra",
+      "Population": "1,070,000"
+    },
+    {
+      "RNo": 23,
+      "CountryCode": "IND",
+      "CityName": "Achalpur",
+      "Population": "96,216"
+    },
+    {
+      "RNo": 24,
+      "CountryCode": "CHN",
+      "CityName": "Acheng",
+      "Population": "197,595"
+    },
+    {
+      "RNo": 25,
+      "CountryCode": "MEX",
+      "CityName": "AcuÃ±a",
+      "Population": "110,388"
+    },
+    {
+      "RNo": 26,
+      "CountryCode": "PCN",
+      "CityName": "Adamstown",
+      "Population": "42"
+    },
+    {
+      "RNo": 27,
+      "CountryCode": "TUR",
+      "CityName": "Adana",
+      "Population": "1,131,198"
+    },
+    {
+      "RNo": 28,
+      "CountryCode": "ETH",
+      "CityName": "Addis Abeba",
+      "Population": "2,495,000"
+    },
+    {
+      "RNo": 29,
+      "CountryCode": "AUS",
+      "CityName": "Adelaide",
+      "Population": "978,100"
+    },
+    {
+      "RNo": 30,
+      "CountryCode": "YEM",
+      "CityName": "Aden",
+      "Population": "398,300"
+    },
+    {
+      "RNo": 31,
+      "CountryCode": "TUR",
+      "CityName": "Adiyaman",
+      "Population": "141,529"
+    },
+    {
+      "RNo": 32,
+      "CountryCode": "NGA",
+      "CityName": "Ado-Ekiti",
+      "Population": "359,400"
+    },
+    {
+      "RNo": 33,
+      "CountryCode": "IND",
+      "CityName": "Adoni",
+      "Population": "136,182"
+    },
+    {
+      "RNo": 34,
+      "CountryCode": "TUR",
+      "CityName": "Afyon",
+      "Population": "103,984"
+    },
+    {
+      "RNo": 35,
+      "CountryCode": "GUM",
+      "CityName": "AgaÃ±a",
+      "Population": "1,139"
+    },
+    {
+      "RNo": 36,
+      "CountryCode": "MAR",
+      "CityName": "Agadir",
+      "Population": "155,244"
+    },
+    {
+      "RNo": 37,
+      "CountryCode": "IND",
+      "CityName": "Agartala",
+      "Population": "157,358"
+    },
+    {
+      "RNo": 38,
+      "CountryCode": "NGA",
+      "CityName": "Agege",
+      "Population": "105,000"
+    },
+    {
+      "RNo": 39,
+      "CountryCode": "JPN",
+      "CityName": "Ageo",
+      "Population": "209,442"
+    },
+    {
+      "RNo": 40,
+      "CountryCode": "IND",
+      "CityName": "Agra",
+      "Population": "891,790"
+    },
+    {
+      "RNo": 41,
+      "CountryCode": "MEX",
+      "CityName": "Aguascalientes",
+      "Population": "643,360"
+    },
+    {
+      "RNo": 42,
+      "CountryCode": "IND",
+      "CityName": "Ahmadnagar",
+      "Population": "181,339"
+    },
+    {
+      "RNo": 43,
+      "CountryCode": "PAK",
+      "CityName": "Ahmadpur East",
+      "Population": "96,000"
+    },
+    {
+      "RNo": 44,
+      "CountryCode": "IND",
+      "CityName": "Ahmedabad",
+      "Population": "2,876,710"
+    },
+    {
+      "RNo": 45,
+      "CountryCode": "MEX",
+      "CityName": "Ahome",
+      "Population": "358,663"
+    },
+    {
+      "RNo": 46,
+      "CountryCode": "IRN",
+      "CityName": "Ahvaz",
+      "Population": "804,980"
+    },
+    {
+      "RNo": 47,
+      "CountryCode": "FRA",
+      "CityName": "Aix-en-Provence",
+      "Population": "134,222"
+    },
+    {
+      "RNo": 48,
+      "CountryCode": "IND",
+      "CityName": "Aizawl",
+      "Population": "155,240"
+    },
+    {
+      "RNo": 49,
+      "CountryCode": "JPN",
+      "CityName": "Aizuwakamatsu",
+      "Population": "119,287"
+    },
+    {
+      "RNo": 50,
+      "CountryCode": "ARE",
+      "CityName": "Ajman",
+      "Population": "114,395"
+    },
+    {
+      "RNo": 51,
+      "CountryCode": "IND",
+      "CityName": "Ajmer",
+      "Population": "402,700"
+    },
+    {
+      "RNo": 52,
+      "CountryCode": "JPN",
+      "CityName": "Akashi",
+      "Population": "292,253"
+    },
+    {
+      "RNo": 53,
+      "CountryCode": "JPN",
+      "CityName": "Akishima",
+      "Population": "106,914"
+    },
+    {
+      "RNo": 54,
+      "CountryCode": "JPN",
+      "CityName": "Akita",
+      "Population": "314,440"
+    },
+    {
+      "RNo": 55,
+      "CountryCode": "IND",
+      "CityName": "Akola",
+      "Population": "328,034"
+    },
+    {
+      "RNo": 56,
+      "CountryCode": "USA",
+      "CityName": "Akron",
+      "Population": "217,074"
+    },
+    {
+      "RNo": 57,
+      "CountryCode": "TUR",
+      "CityName": "Aksaray",
+      "Population": "102,681"
+    },
+    {
+      "RNo": 58,
+      "CountryCode": "NGA",
+      "CityName": "Akure",
+      "Population": "162,300"
+    },
+    {
+      "RNo": 59,
+      "CountryCode": "IRQ",
+      "CityName": "al-Amara",
+      "Population": "208,797"
+    },
+    {
+      "RNo": 60,
+      "CountryCode": "EGY",
+      "CityName": "al-Arish",
+      "Population": "100,447"
+    },
+    {
+      "RNo": 61,
+      "CountryCode": "ARE",
+      "CityName": "al-Ayn",
+      "Population": "225,970"
+    },
+    {
+      "RNo": 62,
+      "CountryCode": "SAU",
+      "CityName": "al-Dammam",
+      "Population": "482,300"
+    },
+    {
+      "RNo": 63,
+      "CountryCode": "IRQ",
+      "CityName": "al-Diwaniya",
+      "Population": "196,519"
+    },
+    {
+      "RNo": 64,
+      "CountryCode": "EGY",
+      "CityName": "al-Faiyum",
+      "Population": "260,964"
+    },
+    {
+      "RNo": 65,
+      "CountryCode": "SDN",
+      "CityName": "al-Fashir",
+      "Population": "141,884"
+    },
+    {
+      "RNo": 66,
+      "CountryCode": "EGY",
+      "CityName": "al-Hawamidiya",
+      "Population": "91,700"
+    },
+    {
+      "RNo": 67,
+      "CountryCode": "SAU",
+      "CityName": "al-Hawiya",
+      "Population": "93,900"
+    },
+    {
+      "RNo": 68,
+      "CountryCode": "IRQ",
+      "CityName": "al-Hilla",
+      "Population": "268,834"
+    },
+    {
+      "RNo": 69,
+      "CountryCode": "SAU",
+      "CityName": "al-Hufuf",
+      "Population": "225,800"
+    },
+    {
+      "RNo": 70,
+      "CountryCode": "SAU",
+      "CityName": "al-Kharj",
+      "Population": "152,100"
+    },
+    {
+      "RNo": 71,
+      "CountryCode": "SAU",
+      "CityName": "al-Khubar",
+      "Population": "141,700"
+    },
+    {
+      "RNo": 72,
+      "CountryCode": "IRQ",
+      "CityName": "al-Kut",
+      "Population": "183,183"
+    },
+    {
+      "RNo": 73,
+      "CountryCode": "EGY",
+      "CityName": "al-Mahallat al-Kubra",
+      "Population": "395,402"
+    },
+    {
+      "RNo": 74,
+      "CountryCode": "BHR",
+      "CityName": "al-Manama",
+      "Population": "148,000"
+    },
+    {
+      "RNo": 75,
+      "CountryCode": "EGY",
+      "CityName": "al-Mansura",
+      "Population": "369,621"
+    },
+    {
+      "RNo": 76,
+      "CountryCode": "EGY",
+      "CityName": "al-Minya",
+      "Population": "201,360"
+    },
+    {
+      "RNo": 77,
+      "CountryCode": "SAU",
+      "CityName": "al-Mubarraz",
+      "Population": "219,100"
+    },
+    {
+      "RNo": 78,
+      "CountryCode": "YEM",
+      "CityName": "al-Mukalla",
+      "Population": "122,400"
+    },
+    {
+      "RNo": 79,
+      "CountryCode": "IRQ",
+      "CityName": "al-Najaf",
+      "Population": "309,010"
+    },
+    {
+      "RNo": 80,
+      "CountryCode": "IRQ",
+      "CityName": "al-Nasiriya",
+      "Population": "265,937"
+    },
+    {
+      "RNo": 81,
+      "CountryCode": "SDN",
+      "CityName": "al-Qadarif",
+      "Population": "191,164"
+    },
+    {
+      "RNo": 82,
+      "CountryCode": "SYR",
+      "CityName": "al-Qamishliya",
+      "Population": "144,286"
+    },
+    {
+      "RNo": 83,
+      "CountryCode": "SAU",
+      "CityName": "al-Qatif",
+      "Population": "98,900"
+    },
+    {
+      "RNo": 84,
+      "CountryCode": "IRQ",
+      "CityName": "al-Ramadi",
+      "Population": "192,556"
+    },
+    {
+      "RNo": 85,
+      "CountryCode": "SYR",
+      "CityName": "al-Raqqa",
+      "Population": "108,020"
+    },
+    {
+      "RNo": 86,
+      "CountryCode": "JOR",
+      "CityName": "al-Rusayfa",
+      "Population": "137,247"
+    },
+    {
+      "RNo": 87,
+      "CountryCode": "KWT",
+      "CityName": "al-Salimiya",
+      "Population": "130,215"
+    },
+    {
+      "RNo": 88,
+      "CountryCode": "OMN",
+      "CityName": "al-Sib",
+      "Population": "155,000"
+    },
+    {
+      "RNo": 89,
+      "CountryCode": "IRQ",
+      "CityName": "al-Sulaymaniya",
+      "Population": "364,096"
+    },
+    {
+      "RNo": 90,
+      "CountryCode": "SAU",
+      "CityName": "al-Taif",
+      "Population": "416,100"
+    },
+    {
+      "RNo": 91,
+      "CountryCode": "SAU",
+      "CityName": "al-Tuqba",
+      "Population": "125,700"
+    },
+    {
+      "RNo": 92,
+      "CountryCode": "JOR",
+      "CityName": "al-Zarqa",
+      "Population": "389,815"
+    },
+    {
+      "RNo": 93,
+      "CountryCode": "LBY",
+      "CityName": "al-Zawiya",
+      "Population": "89,338"
+    },
+    {
+      "RNo": 94,
+      "CountryCode": "BRA",
+      "CityName": "Alagoinhas",
+      "Population": "126,820"
+    },
+    {
+      "RNo": 95,
+      "CountryCode": "IND",
+      "CityName": "Alandur",
+      "Population": "125,244"
+    },
+    {
+      "RNo": 96,
+      "CountryCode": "TUR",
+      "CityName": "Alanya",
+      "Population": "117,300"
+    },
+    {
+      "RNo": 97,
+      "CountryCode": "ESP",
+      "CityName": "Albacete",
+      "Population": "147,527"
+    },
+    {
+      "RNo": 98,
+      "CountryCode": "USA",
+      "CityName": "Albany",
+      "Population": "93,994"
+    },
+    {
+      "RNo": 99,
+      "CountryCode": "ZAF",
+      "CityName": "Alberton",
+      "Population": "410,102"
+    },
+    {
+      "RNo": 100,
+      "CountryCode": "USA",
+      "CityName": "Albuquerque",
+      "Population": "448,607"
+    },
+    {
+      "RNo": 101,
+      "CountryCode": "ESP",
+      "CityName": "AlcalÃ¡ de Henares",
+      "Population": "164,463"
+    },
+    {
+      "RNo": 102,
+      "CountryCode": "ESP",
+      "CityName": "AlcorcÃ³n",
+      "Population": "142,048"
+    },
+    {
+      "RNo": 103,
+      "CountryCode": "SYR",
+      "CityName": "Aleppo",
+      "Population": "1,261,983"
+    },
+    {
+      "RNo": 104,
+      "CountryCode": "ITA",
+      "CityName": "Alessandria",
+      "Population": "90,289"
+    },
+    {
+      "RNo": 105,
+      "CountryCode": "USA",
+      "CityName": "Alexandria",
+      "Population": "128,283"
+    },
+    {
+      "RNo": 106,
+      "CountryCode": "EGY",
+      "CityName": "Alexandria",
+      "Population": "3,328,196"
+    },
+    {
+      "RNo": 107,
+      "CountryCode": "ESP",
+      "CityName": "Algeciras",
+      "Population": "103,106"
+    },
+    {
+      "RNo": 108,
+      "CountryCode": "DZA",
+      "CityName": "Alger",
+      "Population": "2,168,000"
+    },
+    {
+      "RNo": 109,
+      "CountryCode": "ESP",
+      "CityName": "Alicante [Alacant]",
+      "Population": "272,432"
+    },
+    {
+      "RNo": 110,
+      "CountryCode": "IND",
+      "CityName": "Aligarh",
+      "Population": "480,520"
+    },
+    {
+      "RNo": 111,
+      "CountryCode": "NLD",
+      "CityName": "Alkmaar",
+      "Population": "92,713"
+    },
+    {
+      "RNo": 112,
+      "CountryCode": "IND",
+      "CityName": "Allahabad",
+      "Population": "792,858"
+    },
+    {
+      "RNo": 113,
+      "CountryCode": "IND",
+      "CityName": "Allappuzha (Alleppey)",
+      "Population": "174,666"
+    },
+    {
+      "RNo": 114,
+      "CountryCode": "MEX",
+      "CityName": "Allende",
+      "Population": "134,645"
+    },
+    {
+      "RNo": 115,
+      "CountryCode": "USA",
+      "CityName": "Allentown",
+      "Population": "106,632"
+    },
+    {
+      "RNo": 116,
+      "CountryCode": "KAZ",
+      "CityName": "Almaty",
+      "Population": "1,129,400"
+    },
+    {
+      "RNo": 117,
+      "CountryCode": "ESP",
+      "CityName": "AlmerÃ­a",
+      "Population": "169,027"
+    },
+    {
+      "RNo": 118,
+      "CountryCode": "NLD",
+      "CityName": "Almere",
+      "Population": "142,465"
+    },
+    {
+      "RNo": 119,
+      "CountryCode": "RUS",
+      "CityName": "Almetjevsk",
+      "Population": "140,700"
+    },
+    {
+      "RNo": 120,
+      "CountryCode": "ARG",
+      "CityName": "Almirante Brown",
+      "Population": "538,918"
+    },
+    {
+      "RNo": 121,
+      "CountryCode": "MEX",
+      "CityName": "Almoloya de JuÃ¡rez",
+      "Population": "110,550"
+    },
+    {
+      "RNo": 122,
+      "CountryCode": "NIU",
+      "CityName": "Alofi",
+      "Population": "682"
+    },
+    {
+      "RNo": 123,
+      "CountryCode": "MYS",
+      "CityName": "Alor Setar",
+      "Population": "124,412"
+    },
+    {
+      "RNo": 124,
+      "CountryCode": "MEX",
+      "CityName": "Altamira",
+      "Population": "127,490"
+    },
+    {
+      "RNo": 125,
+      "CountryCode": "UKR",
+      "CityName": "AltÂševsk",
+      "Population": "119,000"
+    },
+    {
+      "RNo": 126,
+      "CountryCode": "BRA",
+      "CityName": "Alvorada",
+      "Population": "175,574"
+    },
+    {
+      "RNo": 127,
+      "CountryCode": "IND",
+      "CityName": "Alwar",
+      "Population": "205,086"
+    },
+    {
+      "RNo": 128,
+      "CountryCode": "PRT",
+      "CityName": "Amadora",
+      "Population": "122,106"
+    },
+    {
+      "RNo": 129,
+      "CountryCode": "JPN",
+      "CityName": "Amagasaki",
+      "Population": "481,434"
+    },
+    {
+      "RNo": 130,
+      "CountryCode": "USA",
+      "CityName": "Amarillo",
+      "Population": "173,627"
+    },
+    {
+      "RNo": 131,
+      "CountryCode": "IND",
+      "CityName": "Ambala",
+      "Population": "122,596"
+    },
+    {
+      "RNo": 132,
+      "CountryCode": "IND",
+      "CityName": "Ambala Sadar",
+      "Population": "90,712"
+    },
+    {
+      "RNo": 133,
+      "CountryCode": "ECU",
+      "CityName": "Ambato",
+      "Population": "169,612"
+    },
+    {
+      "RNo": 134,
+      "CountryCode": "IND",
+      "CityName": "Ambattur",
+      "Population": "215,424"
+    },
+    {
+      "RNo": 135,
+      "CountryCode": "IDN",
+      "CityName": "Ambon",
+      "Population": "249,312"
+    },
+    {
+      "RNo": 136,
+      "CountryCode": "BRA",
+      "CityName": "Americana",
+      "Population": "177,409"
+    },
+    {
+      "RNo": 137,
+      "CountryCode": "NLD",
+      "CityName": "Amersfoort",
+      "Population": "126,270"
+    },
+    {
+      "RNo": 138,
+      "CountryCode": "FRA",
+      "CityName": "Amiens",
+      "Population": "135,501"
+    },
+    {
+      "RNo": 139,
+      "CountryCode": "JOR",
+      "CityName": "Amman",
+      "Population": "1,000,000"
+    },
+    {
+      "RNo": 140,
+      "CountryCode": "IRN",
+      "CityName": "Amol",
+      "Population": "159,092"
+    },
+    {
+      "RNo": 141,
+      "CountryCode": "CHN",
+      "CityName": "Amoy [Xiamen]",
+      "Population": "627,500"
+    },
+    {
+      "RNo": 142,
+      "CountryCode": "IND",
+      "CityName": "Amravati",
+      "Population": "421,576"
+    },
+    {
+      "RNo": 143,
+      "CountryCode": "IND",
+      "CityName": "Amritsar",
+      "Population": "708,835"
+    },
+    {
+      "RNo": 144,
+      "CountryCode": "IND",
+      "CityName": "Amroha",
+      "Population": "137,061"
+    },
+    {
+      "RNo": 145,
+      "CountryCode": "NLD",
+      "CityName": "Amsterdam",
+      "Population": "731,200"
+    },
+    {
+      "RNo": 146,
+      "CountryCode": "USA",
+      "CityName": "Anaheim",
+      "Population": "328,014"
+    },
+    {
+      "RNo": 147,
+      "CountryCode": "IND",
+      "CityName": "Anand",
+      "Population": "110,266"
+    },
+    {
+      "RNo": 148,
+      "CountryCode": "BRA",
+      "CityName": "Ananindeua",
+      "Population": "400,940"
+    },
+    {
+      "RNo": 149,
+      "CountryCode": "IND",
+      "CityName": "Anantapur",
+      "Population": "174,924"
+    },
+    {
+      "RNo": 150,
+      "CountryCode": "BRA",
+      "CityName": "AnÃ¡polis",
+      "Population": "282,197"
+    },
+    {
+      "RNo": 151,
+      "CountryCode": "USA",
+      "CityName": "Anchorage",
+      "Population": "260,283"
+    },
+    {
+      "RNo": 152,
+      "CountryCode": "ITA",
+      "CityName": "Ancona",
+      "Population": "98,329"
+    },
+    {
+      "RNo": 153,
+      "CountryCode": "CHN",
+      "CityName": "Anda",
+      "Population": "136,446"
+    },
+    {
+      "RNo": 154,
+      "CountryCode": "UZB",
+      "CityName": "Andijon",
+      "Population": "318,600"
+    },
+    {
+      "RNo": 155,
+      "CountryCode": "IRN",
+      "CityName": "Andimeshk",
+      "Population": "106,923"
+    },
+    {
+      "RNo": 156,
+      "CountryCode": "KOR",
+      "CityName": "Andong",
+      "Population": "188,443"
+    },
+    {
+      "RNo": 157,
+      "CountryCode": "AND",
+      "CityName": "Andorra la Vella",
+      "Population": "21,189"
+    },
+    {
+      "RNo": 158,
+      "CountryCode": "ITA",
+      "CityName": "Andria",
+      "Population": "94,443"
+    },
+    {
+      "RNo": 159,
+      "CountryCode": "RUS",
+      "CityName": "Angarsk",
+      "Population": "264,700"
+    },
+    {
+      "RNo": 160,
+      "CountryCode": "PHL",
+      "CityName": "Angeles",
+      "Population": "263,971"
+    },
+    {
+      "RNo": 161,
+      "CountryCode": "FRA",
+      "CityName": "Angers",
+      "Population": "151,279"
+    },
+    {
+      "RNo": 162,
+      "CountryCode": "BRA",
+      "CityName": "Angra dos Reis",
+      "Population": "96,864"
+    },
+    {
+      "RNo": 163,
+      "CountryCode": "UZB",
+      "CityName": "Angren",
+      "Population": "128,000"
+    },
+    {
+      "RNo": 164,
+      "CountryCode": "JPN",
+      "CityName": "Anjo",
+      "Population": "153,823"
+    },
+    {
+      "RNo": 165,
+      "CountryCode": "CHN",
+      "CityName": "Ankang",
+      "Population": "142,170"
+    },
+    {
+      "RNo": 166,
+      "CountryCode": "TUR",
+      "CityName": "Ankara",
+      "Population": "3,038,159"
+    },
+    {
+      "RNo": 167,
+      "CountryCode": "USA",
+      "CityName": "Ann Arbor",
+      "Population": "114,024"
+    },
+    {
+      "RNo": 168,
+      "CountryCode": "DZA",
+      "CityName": "Annaba",
+      "Population": "222,518"
+    },
+    {
+      "RNo": 169,
+      "CountryCode": "CHN",
+      "CityName": "Anqing",
+      "Population": "250,718"
+    },
+    {
+      "RNo": 170,
+      "CountryCode": "KOR",
+      "CityName": "Ansan",
+      "Population": "510,314"
+    },
+    {
+      "RNo": 171,
+      "CountryCode": "CHN",
+      "CityName": "Anshan",
+      "Population": "1,200,000"
+    },
+    {
+      "RNo": 172,
+      "CountryCode": "CHN",
+      "CityName": "Anshun",
+      "Population": "174,142"
+    },
+    {
+      "RNo": 173,
+      "CountryCode": "TUR",
+      "CityName": "Antalya",
+      "Population": "564,914"
+    },
+    {
+      "RNo": 174,
+      "CountryCode": "MDG",
+      "CityName": "Antananarivo",
+      "Population": "675,669"
+    },
+    {
+      "RNo": 175,
+      "CountryCode": "PHL",
+      "CityName": "Antipolo",
+      "Population": "470,866"
+    },
+    {
+      "RNo": 176,
+      "CountryCode": "CHL",
+      "CityName": "Antofagasta",
+      "Population": "251,429"
+    },
+    {
+      "RNo": 177,
+      "CountryCode": "MDG",
+      "CityName": "AntsirabÃ©",
+      "Population": "120,239"
+    },
+    {
+      "RNo": 178,
+      "CountryCode": "BEL",
+      "CityName": "Antwerpen",
+      "Population": "446,525"
+    },
+    {
+      "RNo": 179,
+      "CountryCode": "CHN",
+      "CityName": "Anyang",
+      "Population": "420,332"
+    },
+    {
+      "RNo": 180,
+      "CountryCode": "KOR",
+      "CityName": "Anyang",
+      "Population": "591,106"
+    },
+    {
+      "RNo": 181,
+      "CountryCode": "RUS",
+      "CityName": "Anzero-Sudzensk",
+      "Population": "96,100"
+    },
+    {
+      "RNo": 182,
+      "CountryCode": "JPN",
+      "CityName": "Aomori",
+      "Population": "295,969"
+    },
+    {
+      "RNo": 183,
+      "CountryCode": "BRA",
+      "CityName": "Aparecida de GoiÃ¢nia",
+      "Population": "324,662"
+    },
+    {
+      "RNo": 184,
+      "CountryCode": "MEX",
+      "CityName": "ApatzingÃ¡n",
+      "Population": "117,849"
+    },
+    {
+      "RNo": 185,
+      "CountryCode": "NLD",
+      "CityName": "Apeldoorn",
+      "Population": "153,491"
+    },
+    {
+      "RNo": 186,
+      "CountryCode": "WSM",
+      "CityName": "Apia",
+      "Population": "35,900"
+    },
+    {
+      "RNo": 187,
+      "CountryCode": "MEX",
+      "CityName": "Apodaca",
+      "Population": "282,941"
+    },
+    {
+      "RNo": 188,
+      "CountryCode": "SLV",
+      "CityName": "Apopa",
+      "Population": "88,800"
+    },
+    {
+      "RNo": 189,
+      "CountryCode": "BRA",
+      "CityName": "Apucarana",
+      "Population": "105,114"
+    },
+    {
+      "RNo": 190,
+      "CountryCode": "CHN",
+      "CityName": "Aqsu",
+      "Population": "164,092"
+    },
+    {
+      "RNo": 191,
+      "CountryCode": "KAZ",
+      "CityName": "Aqtau",
+      "Population": "143,400"
+    },
+    {
+      "RNo": 192,
+      "CountryCode": "KAZ",
+      "CityName": "AqtÃ¶be",
+      "Population": "253,100"
+    },
+    {
+      "RNo": 193,
+      "CountryCode": "BRA",
+      "CityName": "AraÃ§atuba",
+      "Population": "169,303"
+    },
+    {
+      "RNo": 194,
+      "CountryCode": "SAU",
+      "CityName": "AraÂ´ar",
+      "Population": "108,100"
+    },
+    {
+      "RNo": 195,
+      "CountryCode": "BRA",
+      "CityName": "Aracaju",
+      "Population": "445,555"
+    },
+    {
+      "RNo": 196,
+      "CountryCode": "ROM",
+      "CityName": "Arad",
+      "Population": "184,408"
+    },
+    {
+      "RNo": 197,
+      "CountryCode": "BRA",
+      "CityName": "AraguaÃ­na",
+      "Population": "114,948"
+    },
+    {
+      "RNo": 198,
+      "CountryCode": "BRA",
+      "CityName": "Araguari",
+      "Population": "98,399"
+    },
+    {
+      "RNo": 199,
+      "CountryCode": "IRN",
+      "CityName": "Arak",
+      "Population": "380,755"
+    },
+    {
+      "RNo": 200,
+      "CountryCode": "BRA",
+      "CityName": "Arapiraca",
+      "Population": "178,988"
+    },
+    {
+      "RNo": 201,
+      "CountryCode": "BRA",
+      "CityName": "Araraquara",
+      "Population": "174,381"
+    },
+    {
+      "RNo": 202,
+      "CountryCode": "BRA",
+      "CityName": "Araras",
+      "Population": "101,046"
+    },
+    {
+      "RNo": 203,
+      "CountryCode": "VEN",
+      "CityName": "Araure",
+      "Population": "94,269"
+    },
+    {
+      "RNo": 204,
+      "CountryCode": "PHL",
+      "CityName": "Arayat",
+      "Population": "101,792"
+    },
+    {
+      "RNo": 205,
+      "CountryCode": "IRN",
+      "CityName": "Ardebil",
+      "Population": "340,386"
+    },
+    {
+      "RNo": 206,
+      "CountryCode": "USA",
+      "CityName": "Arden-Arcade",
+      "Population": "92,040"
+    },
+    {
+      "RNo": 207,
+      "CountryCode": "PRI",
+      "CityName": "Arecibo",
+      "Population": "100,131"
+    },
+    {
+      "RNo": 208,
+      "CountryCode": "PER",
+      "CityName": "Arequipa",
+      "Population": "762,000"
+    },
+    {
+      "RNo": 209,
+      "CountryCode": "ITA",
+      "CityName": "Arezzo",
+      "Population": "91,729"
+    },
+    {
+      "RNo": 210,
+      "CountryCode": "FRA",
+      "CityName": "Argenteuil",
+      "Population": "93,961"
+    },
+    {
+      "RNo": 211,
+      "CountryCode": "TUN",
+      "CityName": "Ariana",
+      "Population": "197,000"
+    },
+    {
+      "RNo": 212,
+      "CountryCode": "CHL",
+      "CityName": "Arica",
+      "Population": "189,036"
+    },
+    {
+      "RNo": 213,
+      "CountryCode": "RUS",
+      "CityName": "Arkangeli",
+      "Population": "361,800"
+    },
+    {
+      "RNo": 214,
+      "CountryCode": "USA",
+      "CityName": "Arlington",
+      "Population": "174,838"
+    },
+    {
+      "RNo": 215,
+      "CountryCode": "USA",
+      "CityName": "Arlington",
+      "Population": "332,969"
+    },
+    {
+      "RNo": 216,
+      "CountryCode": "RUS",
+      "CityName": "Armavir",
+      "Population": "164,900"
+    },
+    {
+      "RNo": 217,
+      "CountryCode": "COL",
+      "CityName": "Armenia",
+      "Population": "288,977"
+    },
+    {
+      "RNo": 218,
+      "CountryCode": "NLD",
+      "CityName": "Arnhem",
+      "Population": "138,020"
+    },
+    {
+      "RNo": 219,
+      "CountryCode": "IND",
+      "CityName": "Arrah (Ara)",
+      "Population": "157,082"
+    },
+    {
+      "RNo": 220,
+      "CountryCode": "TZA",
+      "CityName": "Arusha",
+      "Population": "102,500"
+    },
+    {
+      "RNo": 221,
+      "CountryCode": "USA",
+      "CityName": "Arvada",
+      "Population": "102,153"
+    },
+    {
+      "RNo": 222,
+      "CountryCode": "RUS",
+      "CityName": "Arzamas",
+      "Population": "110,700"
+    },
+    {
+      "RNo": 223,
+      "CountryCode": "JPN",
+      "CityName": "Asahikawa",
+      "Population": "364,813"
+    },
+    {
+      "RNo": 224,
+      "CountryCode": "JPN",
+      "CityName": "Asaka",
+      "Population": "114,815"
+    },
+    {
+      "RNo": 225,
+      "CountryCode": "KOR",
+      "CityName": "Asan",
+      "Population": "154,663"
+    },
+    {
+      "RNo": 226,
+      "CountryCode": "IND",
+      "CityName": "Asansol",
+      "Population": "262,188"
+    },
+    {
+      "RNo": 227,
+      "CountryCode": "ISR",
+      "CityName": "Ashdod",
+      "Population": "155,800"
+    },
+    {
+      "RNo": 228,
+      "CountryCode": "TKM",
+      "CityName": "Ashgabat",
+      "Population": "540,600"
+    },
+    {
+      "RNo": 229,
+      "CountryCode": "JPN",
+      "CityName": "Ashikaga",
+      "Population": "165,243"
+    },
+    {
+      "RNo": 230,
+      "CountryCode": "IND",
+      "CityName": "Ashoknagar-Kalyangarh",
+      "Population": "96,315"
+    },
+    {
+      "RNo": 231,
+      "CountryCode": "ISR",
+      "CityName": "Ashqelon",
+      "Population": "92,300"
+    },
+    {
+      "RNo": 232,
+      "CountryCode": "ERI",
+      "CityName": "Asmara",
+      "Population": "431,000"
+    },
+    {
+      "RNo": 233,
+      "CountryCode": "EGY",
+      "CityName": "Assuan",
+      "Population": "219,017"
+    },
+    {
+      "RNo": 234,
+      "CountryCode": "KAZ",
+      "CityName": "Astana",
+      "Population": "311,200"
+    },
+    {
+      "RNo": 235,
+      "CountryCode": "RUS",
+      "CityName": "Astrahan",
+      "Population": "486,100"
+    },
+    {
+      "RNo": 236,
+      "CountryCode": "PRY",
+      "CityName": "AsunciÃ³n",
+      "Population": "557,776"
+    },
+    {
+      "RNo": 237,
+      "CountryCode": "EGY",
+      "CityName": "Asyut",
+      "Population": "343,498"
+    },
+    {
+      "RNo": 238,
+      "CountryCode": "RUS",
+      "CityName": "AtÂšinsk",
+      "Population": "121,600"
+    },
+    {
+      "RNo": 239,
+      "CountryCode": "GRC",
+      "CityName": "Athenai",
+      "Population": "772,072"
+    },
+    {
+      "RNo": 240,
+      "CountryCode": "USA",
+      "CityName": "Athens-Clarke County",
+      "Population": "101,489"
+    },
+    {
+      "RNo": 241,
+      "CountryCode": "BRA",
+      "CityName": "Atibaia",
+      "Population": "100,356"
+    },
+    {
+      "RNo": 242,
+      "CountryCode": "MEX",
+      "CityName": "AtizapÃ¡n de Zaragoza",
+      "Population": "467,262"
+    },
+    {
+      "RNo": 243,
+      "CountryCode": "USA",
+      "CityName": "Atlanta",
+      "Population": "416,474"
+    },
+    {
+      "RNo": 244,
+      "CountryCode": "MEX",
+      "CityName": "Atlixco",
+      "Population": "117,019"
+    },
+    {
+      "RNo": 245,
+      "CountryCode": "JPN",
+      "CityName": "Atsugi",
+      "Population": "212,407"
+    },
+    {
+      "RNo": 246,
+      "CountryCode": "KAZ",
+      "CityName": "Atyrau",
+      "Population": "142,500"
+    },
+    {
+      "RNo": 247,
+      "CountryCode": "NZL",
+      "CityName": "Auckland",
+      "Population": "381,800"
+    },
+    {
+      "RNo": 248,
+      "CountryCode": "DEU",
+      "CityName": "Augsburg",
+      "Population": "254,867"
+    },
+    {
+      "RNo": 249,
+      "CountryCode": "USA",
+      "CityName": "Augusta-Richmond County",
+      "Population": "199,775"
+    },
+    {
+      "RNo": 250,
+      "CountryCode": "USA",
+      "CityName": "Aurora",
+      "Population": "142,990"
+    },
+    {
+      "RNo": 251,
+      "CountryCode": "USA",
+      "CityName": "Aurora",
+      "Population": "276,393"
+    },
+    {
+      "RNo": 252,
+      "CountryCode": "USA",
+      "CityName": "Austin",
+      "Population": "656,562"
+    },
+    {
+      "RNo": 253,
+      "CountryCode": "IND",
+      "CityName": "Avadi",
+      "Population": "183,215"
+    },
+    {
+      "RNo": 254,
+      "CountryCode": "COK",
+      "CityName": "Avarua",
+      "Population": "11,900"
+    },
+    {
+      "RNo": 255,
+      "CountryCode": "ARG",
+      "CityName": "Avellaneda",
+      "Population": "353,046"
+    },
+    {
+      "RNo": 256,
+      "CountryCode": "NGA",
+      "CityName": "Awka",
+      "Population": "111,200"
+    },
+    {
+      "RNo": 257,
+      "CountryCode": "PER",
+      "CityName": "Ayacucho",
+      "Population": "118,960"
+    },
+    {
+      "RNo": 258,
+      "CountryCode": "TUR",
+      "CityName": "Aydin",
+      "Population": "128,651"
+    },
+    {
+      "RNo": 259,
+      "CountryCode": "BRA",
+      "CityName": "Ãguas Lindas de GoiÃ¡s",
+      "Population": "89,200"
+    },
+    {
+      "RNo": 260,
+      "CountryCode": "DNK",
+      "CityName": "Ã…rhus",
+      "Population": "284,846"
+    },
+    {
+      "RNo": 261,
+      "CountryCode": "TUR",
+      "CityName": "Ã‡orlu",
+      "Population": "123,300"
+    },
+    {
+      "RNo": 262,
+      "CountryCode": "TUR",
+      "CityName": "Ã‡orum",
+      "Population": "145,495"
+    },
+    {
+      "RNo": 263,
+      "CountryCode": "RUS",
+      "CityName": "ÂŠahty",
+      "Population": "221,800"
+    },
+    {
+      "RNo": 264,
+      "CountryCode": "LTU",
+      "CityName": "ÂŠiauliai",
+      "Population": "146,563"
+    },
+    {
+      "RNo": 265,
+      "CountryCode": "UKR",
+      "CityName": "ÂŠostka",
+      "Population": "90,000"
+    },
+    {
+      "RNo": 266,
+      "CountryCode": "RUS",
+      "CityName": "ÂŠtÂšolkovo",
+      "Population": "104,900"
+    },
+    {
+      "RNo": 267,
+      "CountryCode": "BGR",
+      "CityName": "ÂŠumen",
+      "Population": "94,686"
+    },
+    {
+      "RNo": 268,
+      "CountryCode": "SWE",
+      "CityName": "Ã–rebro",
+      "Population": "124,207"
+    },
+    {
+      "RNo": 269,
+      "CountryCode": "KAZ",
+      "CityName": "Ã–skemen",
+      "Population": "311,000"
+    },
+    {
+      "RNo": 270,
+      "CountryCode": "CZE",
+      "CityName": "ÃšstÃ­ nad Labem",
+      "Population": "95,491"
+    },
+    {
+      "RNo": 271,
+      "CountryCode": "UZB",
+      "CityName": "Ãœrgenc",
+      "Population": "138,900"
+    },
+    {
+      "RNo": 272,
+      "CountryCode": "NLD",
+      "CityName": "Â´s-Hertogenbosch",
+      "Population": "129,170"
+    },
+    {
+      "RNo": 273,
+      "CountryCode": "IRN",
+      "CityName": "Babol",
+      "Population": "158,346"
+    },
+    {
+      "RNo": 274,
+      "CountryCode": "BRA",
+      "CityName": "Bacabal",
+      "Population": "93,121"
+    },
+    {
+      "RNo": 275,
+      "CountryCode": "ROM",
+      "CityName": "Bacau",
+      "Population": "209,235"
+    },
+    {
+      "RNo": 276,
+      "CountryCode": "PHL",
+      "CityName": "Bacolod",
+      "Population": "429,076"
+    },
+    {
+      "RNo": 277,
+      "CountryCode": "PHL",
+      "CityName": "Bacoor",
+      "Population": "305,699"
+    },
+    {
+      "RNo": 278,
+      "CountryCode": "ESP",
+      "CityName": "Badajoz",
+      "Population": "136,613"
+    },
+    {
+      "RNo": 279,
+      "CountryCode": "ESP",
+      "CityName": "Badalona",
+      "Population": "209,635"
+    },
+    {
+      "RNo": 280,
+      "CountryCode": "CMR",
+      "CityName": "Bafoussam",
+      "Population": "131,000"
+    },
+    {
+      "RNo": 281,
+      "CountryCode": "BRA",
+      "CityName": "BagÃ©",
+      "Population": "120,793"
+    },
+    {
+      "RNo": 282,
+      "CountryCode": "IRQ",
+      "CityName": "Baghdad",
+      "Population": "4,336,000"
+    },
+    {
+      "RNo": 283,
+      "CountryCode": "PHL",
+      "CityName": "Bago",
+      "Population": "141,721"
+    },
+    {
+      "RNo": 284,
+      "CountryCode": "PHL",
+      "CityName": "Baguio",
+      "Population": "252,386"
+    },
+    {
+      "RNo": 285,
+      "CountryCode": "PAK",
+      "CityName": "Bahawalnagar",
+      "Population": "109,600"
+    },
+    {
+      "RNo": 286,
+      "CountryCode": "PAK",
+      "CityName": "Bahawalpur",
+      "Population": "403,408"
+    },
+    {
+      "RNo": 287,
+      "CountryCode": "ARG",
+      "CityName": "BahÃ­a Blanca",
+      "Population": "239,810"
+    },
+    {
+      "RNo": 288,
+      "CountryCode": "ETH",
+      "CityName": "Bahir Dar",
+      "Population": "96,140"
+    },
+    {
+      "RNo": 289,
+      "CountryCode": "IND",
+      "CityName": "Bahraich",
+      "Population": "135,400"
+    },
+    {
+      "RNo": 290,
+      "CountryCode": "EGY",
+      "CityName": "Bahtim",
+      "Population": "275,807"
+    },
+    {
+      "RNo": 291,
+      "CountryCode": "ROM",
+      "CityName": "Baia Mare",
+      "Population": "149,665"
+    },
+    {
+      "RNo": 292,
+      "CountryCode": "CHN",
+      "CityName": "Baicheng",
+      "Population": "217,987"
+    },
+    {
+      "RNo": 293,
+      "CountryCode": "IND",
+      "CityName": "Baidyabati",
+      "Population": "90,601"
+    },
+    {
+      "RNo": 294,
+      "CountryCode": "KIR",
+      "CityName": "Bairiki",
+      "Population": "2,226"
+    },
+    {
+      "RNo": 295,
+      "CountryCode": "CHN",
+      "CityName": "Baiyin",
+      "Population": "204,970"
+    },
+    {
+      "RNo": 296,
+      "CountryCode": "USA",
+      "CityName": "Bakersfield",
+      "Population": "247,057"
+    },
+    {
+      "RNo": 297,
+      "CountryCode": "AZE",
+      "CityName": "Baku",
+      "Population": "1,787,800"
+    },
+    {
+      "RNo": 298,
+      "CountryCode": "RUS",
+      "CityName": "BalaÂšiha",
+      "Population": "132,900"
+    },
+    {
+      "RNo": 299,
+      "CountryCode": "RUS",
+      "CityName": "BalaÂšov",
+      "Population": "97,100"
+    },
+    {
+      "RNo": 300,
+      "CountryCode": "RUS",
+      "CityName": "Balakovo",
+      "Population": "206,000"
+    },
+    {
+      "RNo": 301,
+      "CountryCode": "TUR",
+      "CityName": "Balikesir",
+      "Population": "196,382"
+    },
+    {
+      "RNo": 302,
+      "CountryCode": "IDN",
+      "CityName": "Balikpapan",
+      "Population": "338,752"
+    },
+    {
+      "RNo": 303,
+      "CountryCode": "PHL",
+      "CityName": "Baliuag",
+      "Population": "119,675"
+    },
+    {
+      "RNo": 304,
+      "CountryCode": "IND",
+      "CityName": "Bally",
+      "Population": "184,474"
+    },
+    {
+      "RNo": 305,
+      "CountryCode": "MDA",
+      "CityName": "Balti",
+      "Population": "153,400"
+    },
+    {
+      "RNo": 306,
+      "CountryCode": "USA",
+      "CityName": "Baltimore",
+      "Population": "651,154"
+    },
+    {
+      "RNo": 307,
+      "CountryCode": "IND",
+      "CityName": "Balurghat",
+      "Population": "119,796"
+    },
+    {
+      "RNo": 308,
+      "CountryCode": "MLI",
+      "CityName": "Bamako",
+      "Population": "809,552"
+    },
+    {
+      "RNo": 309,
+      "CountryCode": "CMR",
+      "CityName": "Bamenda",
+      "Population": "138,000"
+    },
+    {
+      "RNo": 310,
+      "CountryCode": "IND",
+      "CityName": "Banda",
+      "Population": "97,227"
+    },
+    {
+      "RNo": 311,
+      "CountryCode": "IDN",
+      "CityName": "Banda Aceh",
+      "Population": "143,409"
+    },
+    {
+      "RNo": 312,
+      "CountryCode": "IDN",
+      "CityName": "Bandar Lampung",
+      "Population": "680,332"
+    },
+    {
+      "RNo": 313,
+      "CountryCode": "BRN",
+      "CityName": "Bandar Seri Begawan",
+      "Population": "21,484"
+    },
+    {
+      "RNo": 314,
+      "CountryCode": "IRN",
+      "CityName": "Bandar-e Anzali",
+      "Population": "98,500"
+    },
+    {
+      "RNo": 315,
+      "CountryCode": "IRN",
+      "CityName": "Bandar-e-Abbas",
+      "Population": "273,578"
+    },
+    {
+      "RNo": 316,
+      "CountryCode": "TUR",
+      "CityName": "Bandirma",
+      "Population": "90,200"
+    },
+    {
+      "RNo": 317,
+      "CountryCode": "IDN",
+      "CityName": "Bandung",
+      "Population": "2,429,000"
+    },
+    {
+      "RNo": 318,
+      "CountryCode": "IND",
+      "CityName": "Bangalore",
+      "Population": "2,660,088"
+    },
+    {
+      "RNo": 319,
+      "CountryCode": "THA",
+      "CityName": "Bangkok",
+      "Population": "6,320,174"
+    },
+    {
+      "RNo": 320,
+      "CountryCode": "CAF",
+      "CityName": "Bangui",
+      "Population": "524,000"
+    },
+    {
+      "RNo": 321,
+      "CountryCode": "EGY",
+      "CityName": "Banha",
+      "Population": "145,792"
+    },
+    {
+      "RNo": 322,
+      "CountryCode": "EGY",
+      "CityName": "Bani Suwayf",
+      "Population": "172,032"
+    },
+    {
+      "RNo": 323,
+      "CountryCode": "BIH",
+      "CityName": "Banja Luka",
+      "Population": "143,079"
+    },
+    {
+      "RNo": 324,
+      "CountryCode": "IDN",
+      "CityName": "Banjarmasin",
+      "Population": "482,931"
+    },
+    {
+      "RNo": 325,
+      "CountryCode": "GMB",
+      "CityName": "Banjul",
+      "Population": "42,326"
+    },
+    {
+      "RNo": 326,
+      "CountryCode": "IND",
+      "CityName": "Bankura",
+      "Population": "114,876"
+    },
+    {
+      "RNo": 327,
+      "CountryCode": "IND",
+      "CityName": "Bansberia",
+      "Population": "93,447"
+    },
+    {
+      "RNo": 328,
+      "CountryCode": "CCK",
+      "CityName": "Bantam",
+      "Population": "503"
+    },
+    {
+      "RNo": 329,
+      "CountryCode": "IDN",
+      "CityName": "Banyuwangi",
+      "Population": "89,900"
+    },
+    {
+      "RNo": 330,
+      "CountryCode": "CHN",
+      "CityName": "Baoding",
+      "Population": "483,155"
+    },
+    {
+      "RNo": 331,
+      "CountryCode": "CHN",
+      "CityName": "Baoji",
+      "Population": "337,765"
+    },
+    {
+      "RNo": 332,
+      "CountryCode": "CHN",
+      "CityName": "Baotou",
+      "Population": "980,000"
+    },
+    {
+      "RNo": 333,
+      "CountryCode": "IRQ",
+      "CityName": "Baquba",
+      "Population": "114,516"
+    },
+    {
+      "RNo": 334,
+      "CountryCode": "IND",
+      "CityName": "Barahanagar (Baranagar)",
+      "Population": "224,821"
+    },
+    {
+      "RNo": 335,
+      "CountryCode": "ESP",
+      "CityName": "Barakaldo",
+      "Population": "98,212"
+    },
+    {
+      "RNo": 336,
+      "CountryCode": "BLR",
+      "CityName": "BaranovitÂši",
+      "Population": "167,000"
+    },
+    {
+      "RNo": 337,
+      "CountryCode": "IND",
+      "CityName": "Barasat",
+      "Population": "107,365"
+    },
+    {
+      "RNo": 338,
+      "CountryCode": "BRA",
+      "CityName": "Barbacena",
+      "Population": "113,079"
+    },
+    {
+      "RNo": 339,
+      "CountryCode": "VEN",
+      "CityName": "Barcelona",
+      "Population": "322,267"
+    },
+    {
+      "RNo": 340,
+      "CountryCode": "ESP",
+      "CityName": "Barcelona",
+      "Population": "1,503,451"
+    },
+    {
+      "RNo": 341,
+      "CountryCode": "IND",
+      "CityName": "Barddhaman (Burdwan)",
+      "Population": "245,079"
+    },
+    {
+      "RNo": 342,
+      "CountryCode": "IND",
+      "CityName": "Bareilly",
+      "Population": "587,211"
+    },
+    {
+      "RNo": 343,
+      "CountryCode": "ITA",
+      "CityName": "Bari",
+      "Population": "331,848"
+    },
+    {
+      "RNo": 344,
+      "CountryCode": "VEN",
+      "CityName": "Barinas",
+      "Population": "217,831"
+    },
+    {
+      "RNo": 345,
+      "CountryCode": "BGD",
+      "CityName": "Barisal",
+      "Population": "170,232"
+    },
+    {
+      "RNo": 346,
+      "CountryCode": "ITA",
+      "CityName": "Barletta",
+      "Population": "91,904"
+    },
+    {
+      "RNo": 347,
+      "CountryCode": "RUS",
+      "CityName": "Barnaul",
+      "Population": "580,100"
+    },
+    {
+      "RNo": 348,
+      "CountryCode": "VEN",
+      "CityName": "Barquisimeto",
+      "Population": "877,239"
+    },
+    {
+      "RNo": 349,
+      "CountryCode": "BRA",
+      "CityName": "Barra do PiraÃ­",
+      "Population": "89,388"
+    },
+    {
+      "RNo": 350,
+      "CountryCode": "BRA",
+      "CityName": "Barra Mansa",
+      "Population": "168,953"
+    },
+    {
+      "RNo": 351,
+      "CountryCode": "IND",
+      "CityName": "Barrackpur",
+      "Population": "133,265"
+    },
+    {
+      "RNo": 352,
+      "CountryCode": "COL",
+      "CityName": "Barrancabermeja",
+      "Population": "178,020"
+    },
+    {
+      "RNo": 353,
+      "CountryCode": "COL",
+      "CityName": "Barranquilla",
+      "Population": "1,223,260"
+    },
+    {
+      "RNo": 354,
+      "CountryCode": "BRA",
+      "CityName": "Barreiras",
+      "Population": "127,801"
+    },
+    {
+      "RNo": 355,
+      "CountryCode": "BRA",
+      "CityName": "Barretos",
+      "Population": "104,156"
+    },
+    {
+      "RNo": 356,
+      "CountryCode": "CAN",
+      "CityName": "Barrie",
+      "Population": "89,269"
+    },
+    {
+      "RNo": 357,
+      "CountryCode": "BRA",
+      "CityName": "Barueri",
+      "Population": "208,426"
+    },
+    {
+      "RNo": 358,
+      "CountryCode": "VEN",
+      "CityName": "Baruta",
+      "Population": "207,290"
+    },
+    {
+      "RNo": 359,
+      "CountryCode": "CHE",
+      "CityName": "Basel",
+      "Population": "166,700"
+    },
+    {
+      "RNo": 360,
+      "CountryCode": "GBR",
+      "CityName": "Basildon",
+      "Population": "100,924"
+    },
+    {
+      "RNo": 361,
+      "CountryCode": "IND",
+      "CityName": "Basirhat",
+      "Population": "101,409"
+    },
+    {
+      "RNo": 362,
+      "CountryCode": "IRQ",
+      "CityName": "Basra",
+      "Population": "406,296"
+    },
+    {
+      "RNo": 363,
+      "CountryCode": "GLP",
+      "CityName": "Basse-Terre",
+      "Population": "12,433"
+    },
+    {
+      "RNo": 364,
+      "CountryCode": "MMR",
+      "CityName": "Bassein (Pathein)",
+      "Population": "183,900"
+    },
+    {
+      "RNo": 365,
+      "CountryCode": "KNA",
+      "CityName": "Basseterre",
+      "Population": "11,600"
+    },
+    {
+      "RNo": 366,
+      "CountryCode": "ISR",
+      "CityName": "Bat Yam",
+      "Population": "137,000"
+    },
+    {
+      "RNo": 367,
+      "CountryCode": "RUS",
+      "CityName": "Bataisk",
+      "Population": "97,300"
+    },
+    {
+      "RNo": 368,
+      "CountryCode": "IDN",
+      "CityName": "Batam",
+      "Population": "91,871"
+    },
+    {
+      "RNo": 369,
+      "CountryCode": "PHL",
+      "CityName": "Batangas",
+      "Population": "247,588"
+    },
+    {
+      "RNo": 370,
+      "CountryCode": "TUR",
+      "CityName": "Batman",
+      "Population": "203,793"
+    },
+    {
+      "RNo": 371,
+      "CountryCode": "DZA",
+      "CityName": "Batna",
+      "Population": "183,377"
+    },
+    {
+      "RNo": 372,
+      "CountryCode": "USA",
+      "CityName": "Baton Rouge",
+      "Population": "227,818"
+    },
+    {
+      "RNo": 373,
+      "CountryCode": "KHM",
+      "CityName": "Battambang",
+      "Population": "129,800"
+    },
+    {
+      "RNo": 374,
+      "CountryCode": "GEO",
+      "CityName": "Batumi",
+      "Population": "137,700"
+    },
+    {
+      "RNo": 375,
+      "CountryCode": "BRA",
+      "CityName": "Bauru",
+      "Population": "313,670"
+    },
+    {
+      "RNo": 376,
+      "CountryCode": "OMN",
+      "CityName": "Bawshar",
+      "Population": "107,500"
+    },
+    {
+      "RNo": 377,
+      "CountryCode": "PRI",
+      "CityName": "BayamÃ³n",
+      "Population": "224,044"
+    },
+    {
+      "RNo": 378,
+      "CountryCode": "PHL",
+      "CityName": "Bayambang",
+      "Population": "96,609"
+    },
+    {
+      "RNo": 379,
+      "CountryCode": "CUB",
+      "CityName": "Bayamo",
+      "Population": "141,000"
+    },
+    {
+      "RNo": 380,
+      "CountryCode": "PHL",
+      "CityName": "Bayawan (Tulong)",
+      "Population": "101,391"
+    },
+    {
+      "RNo": 381,
+      "CountryCode": "PHL",
+      "CityName": "Baybay",
+      "Population": "95,630"
+    },
+    {
+      "RNo": 382,
+      "CountryCode": "PHL",
+      "CityName": "Bayugan",
+      "Population": "93,623"
+    },
+    {
+      "RNo": 383,
+      "CountryCode": "NOR",
+      "CityName": "BÃ¦rum",
+      "Population": "101,340"
+    },
+    {
+      "RNo": 384,
+      "CountryCode": "DZA",
+      "CityName": "BÃ©char",
+      "Population": "107,311"
+    },
+    {
+      "RNo": 385,
+      "CountryCode": "DZA",
+      "CityName": "BÃ©jaÃ¯a",
+      "Population": "117,162"
+    },
+    {
+      "RNo": 386,
+      "CountryCode": "MUS",
+      "CityName": "Beau Bassin-Rose Hill",
+      "Population": "100,616"
+    },
+    {
+      "RNo": 387,
+      "CountryCode": "USA",
+      "CityName": "Beaumont",
+      "Population": "113,866"
+    },
+    {
+      "RNo": 388,
+      "CountryCode": "IND",
+      "CityName": "Beawar",
+      "Population": "105,363"
+    },
+    {
+      "RNo": 389,
+      "CountryCode": "ISR",
+      "CityName": "Beerseba",
+      "Population": "163,700"
+    },
+    {
+      "RNo": 390,
+      "CountryCode": "CHN",
+      "CityName": "BeiÂ´an",
+      "Population": "204,899"
+    },
+    {
+      "RNo": 391,
+      "CountryCode": "CHN",
+      "CityName": "Beihai",
+      "Population": "112,673"
+    },
+    {
+      "RNo": 392,
+      "CountryCode": "CHN",
+      "CityName": "Beipiao",
+      "Population": "194,301"
+    },
+    {
+      "RNo": 393,
+      "CountryCode": "MOZ",
+      "CityName": "Beira",
+      "Population": "397,368"
+    },
+    {
+      "RNo": 394,
+      "CountryCode": "LBN",
+      "CityName": "Beirut",
+      "Population": "1,100,000"
+    },
+    {
+      "RNo": 395,
+      "CountryCode": "IDN",
+      "CityName": "Bekasi",
+      "Population": "644,300"
+    },
+    {
+      "RNo": 396,
+      "CountryCode": "BRA",
+      "CityName": "BelÃ©m",
+      "Population": "1,186,926"
+    },
+    {
+      "RNo": 397,
+      "CountryCode": "GBR",
+      "CityName": "Belfast",
+      "Population": "287,500"
+    },
+    {
+      "RNo": 398,
+      "CountryCode": "BRA",
+      "CityName": "Belford Roxo",
+      "Population": "425,194"
+    },
+    {
+      "RNo": 399,
+      "CountryCode": "IND",
+      "CityName": "Belgaum",
+      "Population": "326,399"
+    },
+    {
+      "RNo": 400,
+      "CountryCode": "RUS",
+      "CityName": "Belgorod",
+      "Population": "342,000"
+    },
+    {
+      "RNo": 401,
+      "CountryCode": "BLZ",
+      "CityName": "Belize City",
+      "Population": "55,810"
+    },
+    {
+      "RNo": 402,
+      "CountryCode": "IND",
+      "CityName": "Bellary",
+      "Population": "245,391"
+    },
+    {
+      "RNo": 403,
+      "CountryCode": "USA",
+      "CityName": "Bellevue",
+      "Population": "109,569"
+    },
+    {
+      "RNo": 404,
+      "CountryCode": "COL",
+      "CityName": "Bello",
+      "Population": "333,470"
+    },
+    {
+      "RNo": 405,
+      "CountryCode": "BLZ",
+      "CityName": "Belmopan",
+      "Population": "7,105"
+    },
+    {
+      "RNo": 406,
+      "CountryCode": "BRA",
+      "CityName": "Belo Horizonte",
+      "Population": "2,139,125"
+    },
+    {
+      "RNo": 407,
+      "CountryCode": "MDA",
+      "CityName": "Bender (TÃ®ghina)",
+      "Population": "125,700"
+    },
+    {
+      "RNo": 408,
+      "CountryCode": "ISR",
+      "CityName": "Bene Beraq",
+      "Population": "133,900"
+    },
+    {
+      "RNo": 409,
+      "CountryCode": "LBY",
+      "CityName": "Bengasi",
+      "Population": "804,000"
+    },
+    {
+      "RNo": 410,
+      "CountryCode": "CHN",
+      "CityName": "Bengbu",
+      "Population": "449,245"
+    },
+    {
+      "RNo": 411,
+      "CountryCode": "IDN",
+      "CityName": "Bengkulu",
+      "Population": "146,439"
+    },
+    {
+      "RNo": 412,
+      "CountryCode": "AGO",
+      "CityName": "Benguela",
+      "Population": "128,300"
+    },
+    {
+      "RNo": 413,
+      "CountryCode": "MAR",
+      "CityName": "Beni-Mellal",
+      "Population": "140,212"
+    },
+    {
+      "RNo": 414,
+      "CountryCode": "NGA",
+      "CityName": "Benin City",
+      "Population": "229,400"
+    },
+    {
+      "RNo": 415,
+      "CountryCode": "MEX",
+      "CityName": "Benito JuÃ¡rez",
+      "Population": "419,276"
+    },
+    {
+      "RNo": 416,
+      "CountryCode": "ZAF",
+      "CityName": "Benoni",
+      "Population": "365,467"
+    },
+    {
+      "RNo": 417,
+      "CountryCode": "BRA",
+      "CityName": "Bento GonÃ§alves",
+      "Population": "89,254"
+    },
+    {
+      "RNo": 418,
+      "CountryCode": "CHN",
+      "CityName": "Benxi",
+      "Population": "770,000"
+    },
+    {
+      "RNo": 419,
+      "CountryCode": "YUG",
+      "CityName": "Beograd",
+      "Population": "1,204,000"
+    },
+    {
+      "RNo": 420,
+      "CountryCode": "JPN",
+      "CityName": "Beppu",
+      "Population": "127,486"
+    },
+    {
+      "RNo": 421,
+      "CountryCode": "ARG",
+      "CityName": "Berazategui",
+      "Population": "276,916"
+    },
+    {
+      "RNo": 422,
+      "CountryCode": "UKR",
+      "CityName": "Berdjansk",
+      "Population": "130,000"
+    },
+    {
+      "RNo": 423,
+      "CountryCode": "UKR",
+      "CityName": "BerdytÂšiv",
+      "Population": "90,000"
+    },
+    {
+      "RNo": 424,
+      "CountryCode": "RUS",
+      "CityName": "Berezniki",
+      "Population": "181,900"
+    },
+    {
+      "RNo": 425,
+      "CountryCode": "ITA",
+      "CityName": "Bergamo",
+      "Population": "117,837"
+    },
+    {
+      "RNo": 426,
+      "CountryCode": "NOR",
+      "CityName": "Bergen",
+      "Population": "230,948"
+    },
+    {
+      "RNo": 427,
+      "CountryCode": "DEU",
+      "CityName": "Bergisch Gladbach",
+      "Population": "106,150"
+    },
+    {
+      "RNo": 428,
+      "CountryCode": "IND",
+      "CityName": "Berhampore (Baharampur)",
+      "Population": "115,144"
+    },
+    {
+      "RNo": 429,
+      "CountryCode": "USA",
+      "CityName": "Berkeley",
+      "Population": "102,743"
+    },
+    {
+      "RNo": 430,
+      "CountryCode": "DEU",
+      "CityName": "Berlin",
+      "Population": "3,386,667"
+    },
+    {
+      "RNo": 431,
+      "CountryCode": "CHE",
+      "CityName": "Bern",
+      "Population": "122,700"
+    },
+    {
+      "RNo": 432,
+      "CountryCode": "FRA",
+      "CityName": "BesanÃ§on",
+      "Population": "117,733"
+    },
+    {
+      "RNo": 433,
+      "CountryCode": "BRA",
+      "CityName": "Betim",
+      "Population": "302,108"
+    },
+    {
+      "RNo": 434,
+      "CountryCode": "IND",
+      "CityName": "Bettiah",
+      "Population": "92,583"
+    },
+    {
+      "RNo": 435,
+      "CountryCode": "IND",
+      "CityName": "Bhagalpur",
+      "Population": "253,225"
+    },
+    {
+      "RNo": 436,
+      "CountryCode": "IND",
+      "CityName": "Bharatpur",
+      "Population": "148,519"
+    },
+    {
+      "RNo": 437,
+      "CountryCode": "IND",
+      "CityName": "Bharuch (Broach)",
+      "Population": "133,102"
+    },
+    {
+      "RNo": 438,
+      "CountryCode": "IND",
+      "CityName": "Bhatinda (Bathinda)",
+      "Population": "159,042"
+    },
+    {
+      "RNo": 439,
+      "CountryCode": "IND",
+      "CityName": "Bhatpara",
+      "Population": "304,952"
+    },
+    {
+      "RNo": 440,
+      "CountryCode": "IND",
+      "CityName": "Bhavnagar",
+      "Population": "402,338"
+    },
+    {
+      "RNo": 441,
+      "CountryCode": "IND",
+      "CityName": "Bhilai",
+      "Population": "386,159"
+    },
+    {
+      "RNo": 442,
+      "CountryCode": "IND",
+      "CityName": "Bhilwara",
+      "Population": "183,965"
+    },
+    {
+      "RNo": 443,
+      "CountryCode": "IND",
+      "CityName": "Bhimavaram",
+      "Population": "121,314"
+    },
+    {
+      "RNo": 444,
+      "CountryCode": "IND",
+      "CityName": "Bhind",
+      "Population": "109,755"
+    },
+    {
+      "RNo": 445,
+      "CountryCode": "IND",
+      "CityName": "Bhir (Bid)",
+      "Population": "112,434"
+    },
+    {
+      "RNo": 446,
+      "CountryCode": "IND",
+      "CityName": "Bhiwandi",
+      "Population": "379,070"
+    },
+    {
+      "RNo": 447,
+      "CountryCode": "IND",
+      "CityName": "Bhiwani",
+      "Population": "121,629"
+    },
+    {
+      "RNo": 448,
+      "CountryCode": "IND",
+      "CityName": "Bhopal",
+      "Population": "1,062,771"
+    },
+    {
+      "RNo": 449,
+      "CountryCode": "IND",
+      "CityName": "Bhubaneswar",
+      "Population": "411,542"
+    },
+    {
+      "RNo": 450,
+      "CountryCode": "IND",
+      "CityName": "Bhuj",
+      "Population": "102,176"
+    },
+    {
+      "RNo": 451,
+      "CountryCode": "IND",
+      "CityName": "Bhusawal",
+      "Population": "145,143"
+    },
+    {
+      "RNo": 452,
+      "CountryCode": "POL",
+      "CityName": "Bialystok",
+      "Population": "283,937"
+    },
+    {
+      "RNo": 453,
+      "CountryCode": "VNM",
+      "CityName": "BiÃªn Hoa",
+      "Population": "282,095"
+    },
+    {
+      "RNo": 454,
+      "CountryCode": "PHL",
+      "CityName": "BiÃ±an",
+      "Population": "201,186"
+    },
+    {
+      "RNo": 455,
+      "CountryCode": "NGA",
+      "CityName": "Bida",
+      "Population": "125,500"
+    },
+    {
+      "RNo": 456,
+      "CountryCode": "IND",
+      "CityName": "Bidar",
+      "Population": "108,016"
+    },
+    {
+      "RNo": 457,
+      "CountryCode": "DEU",
+      "CityName": "Bielefeld",
+      "Population": "321,125"
+    },
+    {
+      "RNo": 458,
+      "CountryCode": "POL",
+      "CityName": "Bielsko-Biala",
+      "Population": "180,307"
+    },
+    {
+      "RNo": 459,
+      "CountryCode": "IND",
+      "CityName": "Bihar Sharif",
+      "Population": "201,323"
+    },
+    {
+      "RNo": 460,
+      "CountryCode": "IND",
+      "CityName": "Bijapur",
+      "Population": "186,939"
+    },
+    {
+      "RNo": 461,
+      "CountryCode": "RUS",
+      "CityName": "Bijsk",
+      "Population": "225,000"
+    },
+    {
+      "RNo": 462,
+      "CountryCode": "IND",
+      "CityName": "Bikaner",
+      "Population": "416,289"
+    },
+    {
+      "RNo": 463,
+      "CountryCode": "KIR",
+      "CityName": "Bikenibeu",
+      "Population": "5,055"
+    },
+    {
+      "RNo": 464,
+      "CountryCode": "UKR",
+      "CityName": "Bila Tserkva",
+      "Population": "215,000"
+    },
+    {
+      "RNo": 465,
+      "CountryCode": "IND",
+      "CityName": "Bilaspur",
+      "Population": "179,833"
+    },
+    {
+      "RNo": 466,
+      "CountryCode": "ESP",
+      "CityName": "Bilbao",
+      "Population": "357,589"
+    },
+    {
+      "RNo": 467,
+      "CountryCode": "EGY",
+      "CityName": "Bilbays",
+      "Population": "113,608"
+    },
+    {
+      "RNo": 468,
+      "CountryCode": "USA",
+      "CityName": "Billings",
+      "Population": "92,988"
+    },
+    {
+      "RNo": 469,
+      "CountryCode": "PHL",
+      "CityName": "Binangonan",
+      "Population": "187,691"
+    },
+    {
+      "RNo": 470,
+      "CountryCode": "IDN",
+      "CityName": "Binjai",
+      "Population": "127,222"
+    },
+    {
+      "RNo": 471,
+      "CountryCode": "CHN",
+      "CityName": "Binzhou",
+      "Population": "133,555"
+    },
+    {
+      "RNo": 472,
+      "CountryCode": "NPL",
+      "CityName": "Biratnagar",
+      "Population": "157,764"
+    },
+    {
+      "RNo": 473,
+      "CountryCode": "NPL",
+      "CityName": "Birgunj",
+      "Population": "90,639"
+    },
+    {
+      "RNo": 474,
+      "CountryCode": "BRA",
+      "CityName": "Birigui",
+      "Population": "94,685"
+    },
+    {
+      "RNo": 475,
+      "CountryCode": "IRN",
+      "CityName": "Birjand",
+      "Population": "127,608"
+    },
+    {
+      "RNo": 476,
+      "CountryCode": "GBR",
+      "CityName": "Birkenhead",
+      "Population": "93,087"
+    },
+    {
+      "RNo": 477,
+      "CountryCode": "MLT",
+      "CityName": "Birkirkara",
+      "Population": "21,445"
+    },
+    {
+      "RNo": 478,
+      "CountryCode": "USA",
+      "CityName": "Birmingham",
+      "Population": "242,820"
+    },
+    {
+      "RNo": 479,
+      "CountryCode": "GBR",
+      "CityName": "Birmingham",
+      "Population": "1,013,000"
+    },
+    {
+      "RNo": 480,
+      "CountryCode": "TUN",
+      "CityName": "Biserta",
+      "Population": "108,900"
+    },
+    {
+      "RNo": 481,
+      "CountryCode": "KGZ",
+      "CityName": "Bishkek",
+      "Population": "589,400"
+    },
+    {
+      "RNo": 482,
+      "CountryCode": "DZA",
+      "CityName": "Biskra",
+      "Population": "128,281"
+    },
+    {
+      "RNo": 483,
+      "CountryCode": "PHL",
+      "CityName": "Bislig",
+      "Population": "97,860"
+    },
+    {
+      "RNo": 484,
+      "CountryCode": "TUR",
+      "CityName": "Bismil",
+      "Population": "101,400"
+    },
+    {
+      "RNo": 485,
+      "CountryCode": "GNB",
+      "CityName": "Bissau",
+      "Population": "241,000"
+    },
+    {
+      "RNo": 486,
+      "CountryCode": "GBR",
+      "CityName": "Blackburn",
+      "Population": "140,000"
+    },
+    {
+      "RNo": 487,
+      "CountryCode": "GBR",
+      "CityName": "Blackpool",
+      "Population": "151,000"
+    },
+    {
+      "RNo": 488,
+      "CountryCode": "RUS",
+      "CityName": "BlagoveÂštÂšensk",
+      "Population": "222,000"
+    },
+    {
+      "RNo": 489,
+      "CountryCode": "MWI",
+      "CityName": "Blantyre",
+      "Population": "478,155"
+    },
+    {
+      "RNo": 490,
+      "CountryCode": "DZA",
+      "CityName": "Blida (el-Boulaida)",
+      "Population": "127,284"
+    },
+    {
+      "RNo": 491,
+      "CountryCode": "IDN",
+      "CityName": "Blitar",
+      "Population": "122,600"
+    },
+    {
+      "RNo": 492,
+      "CountryCode": "ZAF",
+      "CityName": "Bloemfontein",
+      "Population": "334,341"
+    },
+    {
+      "RNo": 493,
+      "CountryCode": "BRA",
+      "CityName": "Blumenau",
+      "Population": "244,379"
+    },
+    {
+      "RNo": 494,
+      "CountryCode": "BRA",
+      "CityName": "Boa Vista",
+      "Population": "167,185"
+    },
+    {
+      "RNo": 495,
+      "CountryCode": "BFA",
+      "CityName": "Bobo-Dioulasso",
+      "Population": "300,000"
+    },
+    {
+      "RNo": 496,
+      "CountryCode": "BLR",
+      "CityName": "Bobruisk",
+      "Population": "221,000"
+    },
+    {
+      "RNo": 497,
+      "CountryCode": "MEX",
+      "CityName": "Boca del RÃ­o",
+      "Population": "135,721"
+    },
+    {
+      "RNo": 498,
+      "CountryCode": "DEU",
+      "CityName": "Bochum",
+      "Population": "392,830"
+    },
+    {
+      "RNo": 499,
+      "CountryCode": "IDN",
+      "CityName": "Bogor",
+      "Population": "285,114"
+    },
+    {
+      "RNo": 500,
+      "CountryCode": "BGD",
+      "CityName": "Bogra",
+      "Population": "120,170"
+    },
+    {
+      "RNo": 501,
+      "CountryCode": "USA",
+      "CityName": "Boise City",
+      "Population": "185,787"
+    },
+    {
+      "RNo": 502,
+      "CountryCode": "IRN",
+      "CityName": "Bojnurd",
+      "Population": "134,835"
+    },
+    {
+      "RNo": 503,
+      "CountryCode": "IND",
+      "CityName": "Bokaro Steel City",
+      "Population": "333,683"
+    },
+    {
+      "RNo": 504,
+      "CountryCode": "ZAF",
+      "CityName": "Boksburg",
+      "Population": "262,648"
+    },
+    {
+      "RNo": 505,
+      "CountryCode": "ITA",
+      "CityName": "Bologna",
+      "Population": "381,161"
+    },
+    {
+      "RNo": 506,
+      "CountryCode": "GBR",
+      "CityName": "Bolton",
+      "Population": "139,020"
+    },
+    {
+      "RNo": 507,
+      "CountryCode": "ITA",
+      "CityName": "Bolzano",
+      "Population": "97,232"
+    },
+    {
+      "RNo": 508,
+      "CountryCode": "COD",
+      "CityName": "Boma",
+      "Population": "135,284"
+    },
+    {
+      "RNo": 509,
+      "CountryCode": "DEU",
+      "CityName": "Bonn",
+      "Population": "301,048"
+    },
+    {
+      "RNo": 510,
+      "CountryCode": "SWE",
+      "CityName": "BorÃ¥s",
+      "Population": "96,883"
+    },
+    {
+      "RNo": 511,
+      "CountryCode": "FRA",
+      "CityName": "Bordeaux",
+      "Population": "215,363"
+    },
+    {
+      "RNo": 512,
+      "CountryCode": "BLR",
+      "CityName": "Borisov",
+      "Population": "151,000"
+    },
+    {
+      "RNo": 513,
+      "CountryCode": "IRN",
+      "CityName": "Borujerd",
+      "Population": "217,804"
+    },
+    {
+      "RNo": 514,
+      "CountryCode": "CHN",
+      "CityName": "Bose",
+      "Population": "93,009"
+    },
+    {
+      "RNo": 515,
+      "CountryCode": "USA",
+      "CityName": "Boston",
+      "Population": "589,141"
+    },
+    {
+      "RNo": 516,
+      "CountryCode": "ROM",
+      "CityName": "Botosani",
+      "Population": "128,730"
+    },
+    {
+      "RNo": 517,
+      "CountryCode": "ZAF",
+      "CityName": "Botshabelo",
+      "Population": "177,971"
+    },
+    {
+      "RNo": 518,
+      "CountryCode": "DEU",
+      "CityName": "Bottrop",
+      "Population": "121,097"
+    },
+    {
+      "RNo": 519,
+      "CountryCode": "BRA",
+      "CityName": "Botucatu",
+      "Population": "107,663"
+    },
+    {
+      "RNo": 520,
+      "CountryCode": "CIV",
+      "CityName": "BouakÃ©",
+      "Population": "329,850"
+    },
+    {
+      "RNo": 521,
+      "CountryCode": "USA",
+      "CityName": "Boulder",
+      "Population": "91,238"
+    },
+    {
+      "RNo": 522,
+      "CountryCode": "FRA",
+      "CityName": "Boulogne-Billancourt",
+      "Population": "106,367"
+    },
+    {
+      "RNo": 523,
+      "CountryCode": "GBR",
+      "CityName": "Bournemouth",
+      "Population": "162,000"
+    },
+    {
+      "RNo": 524,
+      "CountryCode": "CHN",
+      "CityName": "Bozhou",
+      "Population": "106,346"
+    },
+    {
+      "RNo": 525,
+      "CountryCode": "GBR",
+      "CityName": "Bradford",
+      "Population": "289,376"
+    },
+    {
+      "RNo": 526,
+      "CountryCode": "PRT",
+      "CityName": "Braga",
+      "Population": "90,535"
+    },
+    {
+      "RNo": 527,
+      "CountryCode": "BRA",
+      "CityName": "BraganÃ§a Paulista",
+      "Population": "116,929"
+    },
+    {
+      "RNo": 528,
+      "CountryCode": "BGD",
+      "CityName": "Brahmanbaria",
+      "Population": "109,032"
+    },
+    {
+      "RNo": 529,
+      "CountryCode": "IND",
+      "CityName": "Brahmapur",
+      "Population": "210,418"
+    },
+    {
+      "RNo": 530,
+      "CountryCode": "ROM",
+      "CityName": "Braila",
+      "Population": "233,756"
+    },
+    {
+      "RNo": 531,
+      "CountryCode": "ZAF",
+      "CityName": "Brakpan",
+      "Population": "171,363"
+    },
+    {
+      "RNo": 532,
+      "CountryCode": "CAN",
+      "CityName": "Brampton",
+      "Population": "296,711"
+    },
+    {
+      "RNo": 533,
+      "CountryCode": "BRA",
+      "CityName": "BrasÃ­lia",
+      "Population": "1,969,868"
+    },
+    {
+      "RNo": 534,
+      "CountryCode": "ROM",
+      "CityName": "Brasov",
+      "Population": "314,225"
+    },
+    {
+      "RNo": 535,
+      "CountryCode": "SVK",
+      "CityName": "Bratislava",
+      "Population": "448,292"
+    },
+    {
+      "RNo": 536,
+      "CountryCode": "RUS",
+      "CityName": "Bratsk",
+      "Population": "277,600"
+    },
+    {
+      "RNo": 537,
+      "CountryCode": "DEU",
+      "CityName": "Braunschweig",
+      "Population": "246,322"
+    },
+    {
+      "RNo": 538,
+      "CountryCode": "COG",
+      "CityName": "Brazzaville",
+      "Population": "950,000"
+    },
+    {
+      "RNo": 539,
+      "CountryCode": "NLD",
+      "CityName": "Breda",
+      "Population": "160,398"
+    },
+    {
+      "RNo": 540,
+      "CountryCode": "DEU",
+      "CityName": "Bremen",
+      "Population": "540,330"
+    },
+    {
+      "RNo": 541,
+      "CountryCode": "DEU",
+      "CityName": "Bremerhaven",
+      "Population": "122,735"
+    },
+    {
+      "RNo": 542,
+      "CountryCode": "ITA",
+      "CityName": "Brescia",
+      "Population": "191,317"
+    },
+    {
+      "RNo": 543,
+      "CountryCode": "BLR",
+      "CityName": "Brest",
+      "Population": "286,000"
+    },
+    {
+      "RNo": 544,
+      "CountryCode": "FRA",
+      "CityName": "Brest",
+      "Population": "149,634"
+    },
+    {
+      "RNo": 545,
+      "CountryCode": "USA",
+      "CityName": "Bridgeport",
+      "Population": "139,529"
+    },
+    {
+      "RNo": 546,
+      "CountryCode": "BRB",
+      "CityName": "Bridgetown",
+      "Population": "6,070"
+    },
+    {
+      "RNo": 547,
+      "CountryCode": "GBR",
+      "CityName": "Brighton",
+      "Population": "156,124"
+    },
+    {
+      "RNo": 548,
+      "CountryCode": "ITA",
+      "CityName": "Brindisi",
+      "Population": "93,454"
+    },
+    {
+      "RNo": 549,
+      "CountryCode": "AUS",
+      "CityName": "Brisbane",
+      "Population": "1,291,117"
+    },
+    {
+      "RNo": 550,
+      "CountryCode": "GBR",
+      "CityName": "Bristol",
+      "Population": "402,000"
+    },
+    {
+      "RNo": 551,
+      "CountryCode": "RUS",
+      "CityName": "Brjansk",
+      "Population": "457,400"
+    },
+    {
+      "RNo": 552,
+      "CountryCode": "CZE",
+      "CityName": "Brno",
+      "Population": "381,862"
+    },
+    {
+      "RNo": 553,
+      "CountryCode": "USA",
+      "CityName": "Brockton",
+      "Population": "93,653"
+    },
+    {
+      "RNo": 554,
+      "CountryCode": "UKR",
+      "CityName": "Brovary",
+      "Population": "89,000"
+    },
+    {
+      "RNo": 555,
+      "CountryCode": "USA",
+      "CityName": "Brownsville",
+      "Population": "139,722"
+    },
+    {
+      "RNo": 556,
+      "CountryCode": "BEL",
+      "CityName": "Brugge",
+      "Population": "116,246"
+    },
+    {
+      "RNo": 557,
+      "CountryCode": "BEL",
+      "CityName": "Bruxelles [Brussel]",
+      "Population": "133,859"
+    },
+    {
+      "RNo": 558,
+      "CountryCode": "COL",
+      "CityName": "Bucaramanga",
+      "Population": "515,555"
+    },
+    {
+      "RNo": 559,
+      "CountryCode": "ROM",
+      "CityName": "Bucuresti",
+      "Population": "2,016,131"
+    },
+    {
+      "RNo": 560,
+      "CountryCode": "HUN",
+      "CityName": "Budapest",
+      "Population": "1,811,552"
+    },
+    {
+      "RNo": 561,
+      "CountryCode": "IND",
+      "CityName": "Budaun",
+      "Population": "116,695"
+    },
+    {
+      "RNo": 562,
+      "CountryCode": "COL",
+      "CityName": "Buenaventura",
+      "Population": "224,336"
+    },
+    {
+      "RNo": 563,
+      "CountryCode": "ARG",
+      "CityName": "Buenos Aires",
+      "Population": "2,982,146"
+    },
+    {
+      "RNo": 564,
+      "CountryCode": "USA",
+      "CityName": "Buffalo",
+      "Population": "292,648"
+    },
+    {
+      "RNo": 565,
+      "CountryCode": "COL",
+      "CityName": "Buga",
+      "Population": "110,699"
+    },
+    {
+      "RNo": 566,
+      "CountryCode": "RUS",
+      "CityName": "Bugulma",
+      "Population": "94,100"
+    },
+    {
+      "RNo": 567,
+      "CountryCode": "UZB",
+      "CityName": "Buhoro",
+      "Population": "237,100"
+    },
+    {
+      "RNo": 568,
+      "CountryCode": "BDI",
+      "CityName": "Bujumbura",
+      "Population": "300,000"
+    },
+    {
+      "RNo": 569,
+      "CountryCode": "IRN",
+      "CityName": "Bukan",
+      "Population": "120,020"
+    },
+    {
+      "RNo": 570,
+      "CountryCode": "COD",
+      "CityName": "Bukavu",
+      "Population": "201,569"
+    },
+    {
+      "RNo": 571,
+      "CountryCode": "IND",
+      "CityName": "Bulandshahr",
+      "Population": "127,201"
+    },
+    {
+      "RNo": 572,
+      "CountryCode": "EGY",
+      "CityName": "Bulaq al-Dakrur",
+      "Population": "148,787"
+    },
+    {
+      "RNo": 573,
+      "CountryCode": "ZWE",
+      "CityName": "Bulawayo",
+      "Population": "621,742"
+    },
+    {
+      "RNo": 574,
+      "CountryCode": "VNM",
+      "CityName": "Buon Ma Thuot",
+      "Population": "97,044"
+    },
+    {
+      "RNo": 575,
+      "CountryCode": "SAU",
+      "CityName": "Burayda",
+      "Population": "248,600"
+    },
+    {
+      "RNo": 576,
+      "CountryCode": "USA",
+      "CityName": "Burbank",
+      "Population": "100,316"
+    },
+    {
+      "RNo": 577,
+      "CountryCode": "BGR",
+      "CityName": "Burgas",
+      "Population": "195,255"
+    },
+    {
+      "RNo": 578,
+      "CountryCode": "ESP",
+      "CityName": "Burgos",
+      "Population": "162,802"
+    },
+    {
+      "RNo": 579,
+      "CountryCode": "IND",
+      "CityName": "Burhanpur",
+      "Population": "172,710"
+    },
+    {
+      "RNo": 580,
+      "CountryCode": "CAN",
+      "CityName": "Burlington",
+      "Population": "145,150"
+    },
+    {
+      "RNo": 581,
+      "CountryCode": "CAN",
+      "CityName": "Burnaby",
+      "Population": "179,209"
+    },
+    {
+      "RNo": 582,
+      "CountryCode": "IND",
+      "CityName": "Burnpur",
+      "Population": "174,933"
+    },
+    {
+      "RNo": 583,
+      "CountryCode": "TUR",
+      "CityName": "Bursa",
+      "Population": "1,095,842"
+    },
+    {
+      "RNo": 584,
+      "CountryCode": "IRN",
+      "CityName": "Bushehr",
+      "Population": "143,641"
+    },
+    {
+      "RNo": 585,
+      "CountryCode": "COD",
+      "CityName": "Butembo",
+      "Population": "109,406"
+    },
+    {
+      "RNo": 586,
+      "CountryCode": "PHL",
+      "CityName": "Butuan",
+      "Population": "267,279"
+    },
+    {
+      "RNo": 587,
+      "CountryCode": "ROM",
+      "CityName": "Buzau",
+      "Population": "148,372"
+    },
+    {
+      "RNo": 588,
+      "CountryCode": "POL",
+      "CityName": "Bydgoszcz",
+      "Population": "386,855"
+    },
+    {
+      "RNo": 589,
+      "CountryCode": "POL",
+      "CityName": "Bytom",
+      "Population": "205,560"
+    },
+    {
+      "RNo": 590,
+      "CountryCode": "PHL",
+      "CityName": "Cabanatuan",
+      "Population": "222,859"
+    },
+    {
+      "RNo": 591,
+      "CountryCode": "VEN",
+      "CityName": "Cabimas",
+      "Population": "221,329"
+    },
+    {
+      "RNo": 592,
+      "CountryCode": "BRA",
+      "CityName": "Cabo de Santo Agostinho",
+      "Population": "149,964"
+    },
+    {
+      "RNo": 593,
+      "CountryCode": "BRA",
+      "CityName": "Cabo Frio",
+      "Population": "119,503"
+    },
+    {
+      "RNo": 594,
+      "CountryCode": "PHL",
+      "CityName": "Cabuyao",
+      "Population": "106,630"
+    },
+    {
+      "RNo": 595,
+      "CountryCode": "BRA",
+      "CityName": "Cachoeirinha",
+      "Population": "103,240"
+    },
+    {
+      "RNo": 596,
+      "CountryCode": "BRA",
+      "CityName": "Cachoeiro de Itapemirim",
+      "Population": "155,024"
+    },
+    {
+      "RNo": 597,
+      "CountryCode": "PHL",
+      "CityName": "Cadiz",
+      "Population": "141,954"
+    },
+    {
+      "RNo": 598,
+      "CountryCode": "FRA",
+      "CityName": "Caen",
+      "Population": "113,987"
+    },
+    {
+      "RNo": 599,
+      "CountryCode": "PHL",
+      "CityName": "Cagayan de Oro",
+      "Population": "461,877"
+    },
+    {
+      "RNo": 600,
+      "CountryCode": "ITA",
+      "CityName": "Cagliari",
+      "Population": "165,926"
+    },
+    {
+      "RNo": 601,
+      "CountryCode": "PRI",
+      "CityName": "Caguas",
+      "Population": "140,502"
+    },
+    {
+      "RNo": 602,
+      "CountryCode": "PHL",
+      "CityName": "Cainta",
+      "Population": "242,511"
+    },
+    {
+      "RNo": 603,
+      "CountryCode": "AUS",
+      "CityName": "Cairns",
+      "Population": "92,273"
+    },
+    {
+      "RNo": 604,
+      "CountryCode": "EGY",
+      "CityName": "Cairo",
+      "Population": "6,789,479"
+    },
+    {
+      "RNo": 605,
+      "CountryCode": "PER",
+      "CityName": "Cajamarca",
+      "Population": "108,009"
+    },
+    {
+      "RNo": 606,
+      "CountryCode": "MEX",
+      "CityName": "Cajeme",
+      "Population": "355,679"
+    },
+    {
+      "RNo": 607,
+      "CountryCode": "NGA",
+      "CityName": "Calabar",
+      "Population": "174,400"
+    },
+    {
+      "RNo": 608,
+      "CountryCode": "VEN",
+      "CityName": "Calabozo",
+      "Population": "107,146"
+    },
+    {
+      "RNo": 609,
+      "CountryCode": "CHL",
+      "CityName": "Calama",
+      "Population": "137,265"
+    },
+    {
+      "RNo": 610,
+      "CountryCode": "PHL",
+      "CityName": "Calamba",
+      "Population": "281,146"
+    },
+    {
+      "RNo": 611,
+      "CountryCode": "PHL",
+      "CityName": "Calapan",
+      "Population": "105,910"
+    },
+    {
+      "RNo": 612,
+      "CountryCode": "PHL",
+      "CityName": "Calbayog",
+      "Population": "147,187"
+    },
+    {
+      "RNo": 613,
+      "CountryCode": "IND",
+      "CityName": "Calcutta [Kolkata]",
+      "Population": "4,399,819"
+    },
+    {
+      "RNo": 614,
+      "CountryCode": "CAN",
+      "CityName": "Calgary",
+      "Population": "768,082"
+    },
+    {
+      "RNo": 615,
+      "CountryCode": "COL",
+      "CityName": "Cali",
+      "Population": "2,077,386"
+    },
+    {
+      "RNo": 616,
+      "CountryCode": "IND",
+      "CityName": "Calicut (Kozhikode)",
+      "Population": "419,831"
+    },
+    {
+      "RNo": 617,
+      "CountryCode": "PER",
+      "CityName": "Callao",
+      "Population": "424,294"
+    },
+    {
+      "RNo": 618,
+      "CountryCode": "VNM",
+      "CityName": "Cam Pha",
+      "Population": "209,086"
+    },
+    {
+      "RNo": 619,
+      "CountryCode": "VNM",
+      "CityName": "Cam Ranh",
+      "Population": "114,041"
+    },
+    {
+      "RNo": 620,
+      "CountryCode": "BRA",
+      "CityName": "CamaÃ§ari",
+      "Population": "149,146"
+    },
+    {
+      "RNo": 621,
+      "CountryCode": "CUB",
+      "CityName": "CamagÃ¼ey",
+      "Population": "298,726"
+    },
+    {
+      "RNo": 622,
+      "CountryCode": "BRA",
+      "CityName": "Camaragibe",
+      "Population": "118,968"
+    },
+    {
+      "RNo": 623,
+      "CountryCode": "GBR",
+      "CityName": "Cambridge",
+      "Population": "121,000"
+    },
+    {
+      "RNo": 624,
+      "CountryCode": "USA",
+      "CityName": "Cambridge",
+      "Population": "101,355"
+    },
+    {
+      "RNo": 625,
+      "CountryCode": "CAN",
+      "CityName": "Cambridge",
+      "Population": "109,186"
+    },
+    {
+      "RNo": 626,
+      "CountryCode": "BRA",
+      "CityName": "CametÃ¡",
+      "Population": "92,779"
+    },
+    {
+      "RNo": 627,
+      "CountryCode": "MEX",
+      "CityName": "Campeche",
+      "Population": "216,735"
+    },
+    {
+      "RNo": 628,
+      "CountryCode": "BRA",
+      "CityName": "Campina Grande",
+      "Population": "352,497"
+    },
+    {
+      "RNo": 629,
+      "CountryCode": "BRA",
+      "CityName": "Campinas",
+      "Population": "950,043"
+    },
+    {
+      "RNo": 630,
+      "CountryCode": "BRA",
+      "CityName": "Campo Grande",
+      "Population": "649,593"
+    },
+    {
+      "RNo": 631,
+      "CountryCode": "BRA",
+      "CityName": "Campo Largo",
+      "Population": "91,203"
+    },
+    {
+      "RNo": 632,
+      "CountryCode": "BRA",
+      "CityName": "Campos dos Goytacazes",
+      "Population": "398,418"
+    },
+    {
+      "RNo": 633,
+      "CountryCode": "VNM",
+      "CityName": "Can Tho",
+      "Population": "215,587"
+    },
+    {
+      "RNo": 634,
+      "CountryCode": "AUS",
+      "CityName": "Canberra",
+      "Population": "322,723"
+    },
+    {
+      "RNo": 635,
+      "CountryCode": "PHL",
+      "CityName": "Candelaria",
+      "Population": "92,429"
+    },
+    {
+      "RNo": 636,
+      "CountryCode": "CHN",
+      "CityName": "Cangzhou",
+      "Population": "242,708"
+    },
+    {
+      "RNo": 637,
+      "CountryCode": "BRA",
+      "CityName": "Canoas",
+      "Population": "294,125"
+    },
+    {
+      "RNo": 638,
+      "CountryCode": "PHL",
+      "CityName": "Capas",
+      "Population": "95,219"
+    },
+    {
+      "RNo": 639,
+      "CountryCode": "CAN",
+      "CityName": "Cape Breton",
+      "Population": "114,733"
+    },
+    {
+      "RNo": 640,
+      "CountryCode": "USA",
+      "CityName": "Cape Coral",
+      "Population": "102,286"
+    },
+    {
+      "RNo": 641,
+      "CountryCode": "ZAF",
+      "CityName": "Cape Town",
+      "Population": "2,352,121"
+    },
+    {
+      "RNo": 642,
+      "CountryCode": "VEN",
+      "CityName": "Caracas",
+      "Population": "1,975,294"
+    },
+    {
+      "RNo": 643,
+      "CountryCode": "BRA",
+      "CityName": "CarapicuÃ­ba",
+      "Population": "357,552"
+    },
+    {
+      "RNo": 644,
+      "CountryCode": "VEN",
+      "CityName": "CarÃºpano",
+      "Population": "119,639"
+    },
+    {
+      "RNo": 645,
+      "CountryCode": "GBR",
+      "CityName": "Cardiff",
+      "Population": "321,000"
+    },
+    {
+      "RNo": 646,
+      "CountryCode": "BRA",
+      "CityName": "Cariacica",
+      "Population": "319,033"
+    },
+    {
+      "RNo": 647,
+      "CountryCode": "MEX",
+      "CityName": "Carmen",
+      "Population": "171,367"
+    },
+    {
+      "RNo": 648,
+      "CountryCode": "PRI",
+      "CityName": "Carolina",
+      "Population": "186,076"
+    },
+    {
+      "RNo": 649,
+      "CountryCode": "HTI",
+      "CityName": "Carrefour",
+      "Population": "290,204"
+    },
+    {
+      "RNo": 650,
+      "CountryCode": "USA",
+      "CityName": "Carrollton",
+      "Population": "109,576"
+    },
+    {
+      "RNo": 651,
+      "CountryCode": "USA",
+      "CityName": "Carson",
+      "Population": "89,089"
+    },
+    {
+      "RNo": 652,
+      "CountryCode": "COL",
+      "CityName": "Cartagena",
+      "Population": "805,757"
+    },
+    {
+      "RNo": 653,
+      "CountryCode": "ESP",
+      "CityName": "Cartagena",
+      "Population": "177,709"
+    },
+    {
+      "RNo": 654,
+      "CountryCode": "COL",
+      "CityName": "Cartago",
+      "Population": "125,884"
+    },
+    {
+      "RNo": 655,
+      "CountryCode": "BRA",
+      "CityName": "Caruaru",
+      "Population": "244,247"
+    },
+    {
+      "RNo": 656,
+      "CountryCode": "USA",
+      "CityName": "Cary",
+      "Population": "91,213"
+    },
+    {
+      "RNo": 657,
+      "CountryCode": "MAR",
+      "CityName": "Casablanca",
+      "Population": "2,940,623"
+    },
+    {
+      "RNo": 658,
+      "CountryCode": "BRA",
+      "CityName": "Cascavel",
+      "Population": "237,510"
+    },
+    {
+      "RNo": 659,
+      "CountryCode": "BRA",
+      "CityName": "Castanhal",
+      "Population": "127,634"
+    },
+    {
+      "RNo": 660,
+      "CountryCode": "ESP",
+      "CityName": "CastellÃ³n de la Plana [Castell",
+      "Population": "139,712"
+    },
+    {
+      "RNo": 661,
+      "CountryCode": "PER",
+      "CityName": "Castilla",
+      "Population": "90,642"
+    },
+    {
+      "RNo": 662,
+      "CountryCode": "LCA",
+      "CityName": "Castries",
+      "Population": "2,301"
+    },
+    {
+      "RNo": 663,
+      "CountryCode": "BRA",
+      "CityName": "Catanduva",
+      "Population": "107,761"
+    },
+    {
+      "RNo": 664,
+      "CountryCode": "ITA",
+      "CityName": "Catania",
+      "Population": "337,862"
+    },
+    {
+      "RNo": 665,
+      "CountryCode": "ITA",
+      "CityName": "Catanzaro",
+      "Population": "96,700"
+    },
+    {
+      "RNo": 666,
+      "CountryCode": "VEN",
+      "CityName": "Catia La Mar",
+      "Population": "117,012"
+    },
+    {
+      "RNo": 667,
+      "CountryCode": "PHL",
+      "CityName": "Cauayan",
+      "Population": "103,952"
+    },
+    {
+      "RNo": 668,
+      "CountryCode": "BRA",
+      "CityName": "Caucaia",
+      "Population": "238,738"
+    },
+    {
+      "RNo": 669,
+      "CountryCode": "PHL",
+      "CityName": "Cavite",
+      "Population": "99,367"
+    },
+    {
+      "RNo": 670,
+      "CountryCode": "BRA",
+      "CityName": "Caxias",
+      "Population": "133,980"
+    },
+    {
+      "RNo": 671,
+      "CountryCode": "BRA",
+      "CityName": "Caxias do Sul",
+      "Population": "349,581"
+    },
+    {
+      "RNo": 672,
+      "CountryCode": "GUF",
+      "CityName": "Cayenne",
+      "Population": "50,699"
+    },
+    {
+      "RNo": 673,
+      "CountryCode": "ESP",
+      "CityName": "CÃ¡diz",
+      "Population": "142,449"
+    },
+    {
+      "RNo": 674,
+      "CountryCode": "MEX",
+      "CityName": "CÃ¡rdenas",
+      "Population": "216,903"
+    },
+    {
+      "RNo": 675,
+      "CountryCode": "ARG",
+      "CityName": "CÃ³rdoba",
+      "Population": "1,157,507"
+    },
+    {
+      "RNo": 676,
+      "CountryCode": "MEX",
+      "CityName": "CÃ³rdoba",
+      "Population": "176,952"
+    },
+    {
+      "RNo": 677,
+      "CountryCode": "ESP",
+      "CityName": "CÃ³rdoba",
+      "Population": "311,708"
+    },
+    {
+      "RNo": 678,
+      "CountryCode": "COL",
+      "CityName": "CÃºcuta",
+      "Population": "606,932"
+    },
+    {
+      "RNo": 679,
+      "CountryCode": "PHL",
+      "CityName": "Cebu",
+      "Population": "718,821"
+    },
+    {
+      "RNo": 680,
+      "CountryCode": "USA",
+      "CityName": "Cedar Rapids",
+      "Population": "120,758"
+    },
+    {
+      "RNo": 681,
+      "CountryCode": "MEX",
+      "CityName": "Celaya",
+      "Population": "382,140"
+    },
+    {
+      "RNo": 682,
+      "CountryCode": "AUS",
+      "CityName": "Central Coast",
+      "Population": "227,657"
+    },
+    {
+      "RNo": 683,
+      "CountryCode": "MEX",
+      "CityName": "Centro (Villahermosa)",
+      "Population": "519,873"
+    },
+    {
+      "RNo": 684,
+      "CountryCode": "ITA",
+      "CityName": "Cesena",
+      "Population": "89,852"
+    },
+    {
+      "RNo": 685,
+      "CountryCode": "CZE",
+      "CityName": "CeskÃ© Budejovice",
+      "Population": "98,186"
+    },
+    {
+      "RNo": 686,
+      "CountryCode": "TUR",
+      "CityName": "Ceyhan",
+      "Population": "102,412"
+    },
+    {
+      "RNo": 687,
+      "CountryCode": "TTO",
+      "CityName": "Chaguanas",
+      "Population": "56,601"
+    },
+    {
+      "RNo": 688,
+      "CountryCode": "MEX",
+      "CityName": "Chalco",
+      "Population": "222,201"
+    },
+    {
+      "RNo": 689,
+      "CountryCode": "IND",
+      "CityName": "Champdani",
+      "Population": "98,818"
+    },
+    {
+      "RNo": 690,
+      "CountryCode": "IND",
+      "CityName": "Chandannagar",
+      "Population": "120,378"
+    },
+    {
+      "RNo": 691,
+      "CountryCode": "IND",
+      "CityName": "Chandigarh",
+      "Population": "504,094"
+    },
+    {
+      "RNo": 692,
+      "CountryCode": "USA",
+      "CityName": "Chandler",
+      "Population": "176,581"
+    },
+    {
+      "RNo": 693,
+      "CountryCode": "IND",
+      "CityName": "Chandrapur",
+      "Population": "226,105"
+    },
+    {
+      "RNo": 694,
+      "CountryCode": "KOR",
+      "CityName": "Chang-won",
+      "Population": "481,694"
+    },
+    {
+      "RNo": 695,
+      "CountryCode": "CHN",
+      "CityName": "Changchun",
+      "Population": "2,812,000"
+    },
+    {
+      "RNo": 696,
+      "CountryCode": "CHN",
+      "CityName": "Changde",
+      "Population": "301,276"
+    },
+    {
+      "RNo": 697,
+      "CountryCode": "TWN",
+      "CityName": "Changhwa",
+      "Population": "227,715"
+    },
+    {
+      "RNo": 698,
+      "CountryCode": "CHN",
+      "CityName": "Changji",
+      "Population": "132,260"
+    },
+    {
+      "RNo": 699,
+      "CountryCode": "CHN",
+      "CityName": "Changsha",
+      "Population": "1,809,800"
+    },
+    {
+      "RNo": 700,
+      "CountryCode": "CHN",
+      "CityName": "Changshu",
+      "Population": "181,805"
+    },
+    {
+      "RNo": 701,
+      "CountryCode": "CHN",
+      "CityName": "Changzhi",
+      "Population": "317,144"
+    },
+    {
+      "RNo": 702,
+      "CountryCode": "CHN",
+      "CityName": "Changzhou",
+      "Population": "530,000"
+    },
+    {
+      "RNo": 703,
+      "CountryCode": "CHN",
+      "CityName": "Chaohu",
+      "Population": "123,676"
+    },
+    {
+      "RNo": 704,
+      "CountryCode": "CHN",
+      "CityName": "Chaoyang",
+      "Population": "222,394"
+    },
+    {
+      "RNo": 705,
+      "CountryCode": "CHN",
+      "CityName": "Chaozhou",
+      "Population": "313,469"
+    },
+    {
+      "RNo": 706,
+      "CountryCode": "BRA",
+      "CityName": "ChapecÃ³",
+      "Population": "144,158"
+    },
+    {
+      "RNo": 707,
+      "CountryCode": "IND",
+      "CityName": "Chapra",
+      "Population": "136,877"
+    },
+    {
+      "RNo": 708,
+      "CountryCode": "BEL",
+      "CityName": "Charleroi",
+      "Population": "200,827"
+    },
+    {
+      "RNo": 709,
+      "CountryCode": "USA",
+      "CityName": "Charleston",
+      "Population": "89,063"
+    },
+    {
+      "RNo": 710,
+      "CountryCode": "USA",
+      "CityName": "Charlotte",
+      "Population": "540,828"
+    },
+    {
+      "RNo": 711,
+      "CountryCode": "VIR",
+      "CityName": "Charlotte Amalie",
+      "Population": "13,000"
+    },
+    {
+      "RNo": 712,
+      "CountryCode": "ZAF",
+      "CityName": "Chatsworth",
+      "Population": "189,885"
+    },
+    {
+      "RNo": 713,
+      "CountryCode": "USA",
+      "CityName": "Chattanooga",
+      "Population": "155,554"
+    },
+    {
+      "RNo": 714,
+      "CountryCode": "TKM",
+      "CityName": "ChÃ¤rjew",
+      "Population": "189,200"
+    },
+    {
+      "RNo": 715,
+      "CountryCode": "KOR",
+      "CityName": "Chechon",
+      "Population": "137,070"
+    },
+    {
+      "RNo": 716,
+      "CountryCode": "KOR",
+      "CityName": "Cheju",
+      "Population": "258,511"
+    },
+    {
+      "RNo": 717,
+      "CountryCode": "GBR",
+      "CityName": "Chelmsford",
+      "Population": "97,451"
+    },
+    {
+      "RNo": 718,
+      "CountryCode": "GBR",
+      "CityName": "Cheltenham",
+      "Population": "106,000"
+    },
+    {
+      "RNo": 719,
+      "CountryCode": "DEU",
+      "CityName": "Chemnitz",
+      "Population": "263,222"
+    },
+    {
+      "RNo": 720,
+      "CountryCode": "CHN",
+      "CityName": "Chengde",
+      "Population": "246,799"
+    },
+    {
+      "RNo": 721,
+      "CountryCode": "CHN",
+      "CityName": "Chengdu",
+      "Population": "3,361,500"
+    },
+    {
+      "RNo": 722,
+      "CountryCode": "IND",
+      "CityName": "Chennai (Madras)",
+      "Population": "3,841,396"
+    },
+    {
+      "RNo": 723,
+      "CountryCode": "CHN",
+      "CityName": "Chenzhou",
+      "Population": "169,400"
+    },
+    {
+      "RNo": 724,
+      "CountryCode": "USA",
+      "CityName": "Chesapeake",
+      "Population": "199,184"
+    },
+    {
+      "RNo": 725,
+      "CountryCode": "IND",
+      "CityName": "Chhindwara",
+      "Population": "93,731"
+    },
+    {
+      "RNo": 726,
+      "CountryCode": "THA",
+      "CityName": "Chiang Mai",
+      "Population": "171,100"
+    },
+    {
+      "RNo": 727,
+      "CountryCode": "TWN",
+      "CityName": "Chiayi",
+      "Population": "265,109"
+    },
+    {
+      "RNo": 728,
+      "CountryCode": "JPN",
+      "CityName": "Chiba",
+      "Population": "863,930"
+    },
+    {
+      "RNo": 729,
+      "CountryCode": "USA",
+      "CityName": "Chicago",
+      "Population": "2,896,016"
+    },
+    {
+      "RNo": 730,
+      "CountryCode": "PER",
+      "CityName": "Chiclayo",
+      "Population": "517,000"
+    },
+    {
+      "RNo": 731,
+      "CountryCode": "CHN",
+      "CityName": "Chifeng",
+      "Population": "350,077"
+    },
+    {
+      "RNo": 732,
+      "CountryCode": "JPN",
+      "CityName": "Chigasaki",
+      "Population": "216,015"
+    },
+    {
+      "RNo": 733,
+      "CountryCode": "MEX",
+      "CityName": "Chihuahua",
+      "Population": "670,208"
+    },
+    {
+      "RNo": 734,
+      "CountryCode": "MEX",
+      "CityName": "Chilapa de Alvarez",
+      "Population": "102,716"
+    },
+    {
+      "RNo": 735,
+      "CountryCode": "CHL",
+      "CityName": "ChillÃ¡n",
+      "Population": "178,182"
+    },
+    {
+      "RNo": 736,
+      "CountryCode": "MEX",
+      "CityName": "Chilpancingo de los Bravo",
+      "Population": "192,509"
+    },
+    {
+      "RNo": 737,
+      "CountryCode": "MEX",
+      "CityName": "ChimalhuacÃ¡n",
+      "Population": "490,245"
+    },
+    {
+      "RNo": 738,
+      "CountryCode": "PER",
+      "CityName": "Chimbote",
+      "Population": "336,000"
+    },
+    {
+      "RNo": 739,
+      "CountryCode": "MOZ",
+      "CityName": "Chimoio",
+      "Population": "171,056"
+    },
+    {
+      "RNo": 740,
+      "CountryCode": "NIC",
+      "CityName": "Chinandega",
+      "Population": "97,387"
+    },
+    {
+      "RNo": 741,
+      "CountryCode": "PER",
+      "CityName": "Chincha Alta",
+      "Population": "110,016"
+    },
+    {
+      "RNo": 742,
+      "CountryCode": "ZMB",
+      "CityName": "Chingola",
+      "Population": "142,400"
+    },
+    {
+      "RNo": 743,
+      "CountryCode": "KOR",
+      "CityName": "Chinhae",
+      "Population": "125,997"
+    },
+    {
+      "RNo": 744,
+      "CountryCode": "PAK",
+      "CityName": "Chiniot",
+      "Population": "169,300"
+    },
+    {
+      "RNo": 745,
+      "CountryCode": "KOR",
+      "CityName": "Chinju",
+      "Population": "329,886"
+    },
+    {
+      "RNo": 746,
+      "CountryCode": "PAK",
+      "CityName": "Chishtian Mandi",
+      "Population": "101,700"
+    },
+    {
+      "RNo": 747,
+      "CountryCode": "MDA",
+      "CityName": "Chisinau",
+      "Population": "719,900"
+    },
+    {
+      "RNo": 748,
+      "CountryCode": "BGD",
+      "CityName": "Chittagong",
+      "Population": "1,392,860"
+    },
+    {
+      "RNo": 749,
+      "CountryCode": "IND",
+      "CityName": "Chittoor",
+      "Population": "133,462"
+    },
+    {
+      "RNo": 750,
+      "CountryCode": "ZWE",
+      "CityName": "Chitungwiza",
+      "Population": "274,912"
+    },
+    {
+      "RNo": 751,
+      "CountryCode": "JPN",
+      "CityName": "Chofu",
+      "Population": "201,585"
+    },
+    {
+      "RNo": 752,
+      "CountryCode": "KOR",
+      "CityName": "Chonan",
+      "Population": "330,259"
+    },
+    {
+      "RNo": 753,
+      "CountryCode": "KOR",
+      "CityName": "Chong-up",
+      "Population": "139,111"
+    },
+    {
+      "RNo": 754,
+      "CountryCode": "PRK",
+      "CityName": "Chongjin",
+      "Population": "582,480"
+    },
+    {
+      "RNo": 755,
+      "CountryCode": "KOR",
+      "CityName": "Chongju",
+      "Population": "531,376"
+    },
+    {
+      "RNo": 756,
+      "CountryCode": "CHN",
+      "CityName": "Chongqing",
+      "Population": "6,351,600"
+    },
+    {
+      "RNo": 757,
+      "CountryCode": "KOR",
+      "CityName": "Chonju",
+      "Population": "563,153"
+    },
+    {
+      "RNo": 758,
+      "CountryCode": "POL",
+      "CityName": "ChorzÃ³w",
+      "Population": "121,708"
+    },
+    {
+      "RNo": 759,
+      "CountryCode": "NZL",
+      "CityName": "Christchurch",
+      "Population": "324,200"
+    },
+    {
+      "RNo": 760,
+      "CountryCode": "USA",
+      "CityName": "Chula Vista",
+      "Population": "173,556"
+    },
+    {
+      "RNo": 761,
+      "CountryCode": "KOR",
+      "CityName": "Chunchon",
+      "Population": "234,528"
+    },
+    {
+      "RNo": 762,
+      "CountryCode": "TWN",
+      "CityName": "Chungho",
+      "Population": "392,176"
+    },
+    {
+      "RNo": 763,
+      "CountryCode": "KOR",
+      "CityName": "Chungju",
+      "Population": "205,206"
+    },
+    {
+      "RNo": 764,
+      "CountryCode": "TWN",
+      "CityName": "Chungli",
+      "Population": "318,649"
+    },
+    {
+      "RNo": 765,
+      "CountryCode": "CHN",
+      "CityName": "Chuzhou",
+      "Population": "125,341"
+    },
+    {
+      "RNo": 766,
+      "CountryCode": "IDN",
+      "CityName": "Cianjur",
+      "Population": "114,300"
+    },
+    {
+      "RNo": 767,
+      "CountryCode": "IDN",
+      "CityName": "Cibinong",
+      "Population": "101,300"
+    },
+    {
+      "RNo": 768,
+      "CountryCode": "CUB",
+      "CityName": "Ciego de Ãvila",
+      "Population": "98,505"
+    },
+    {
+      "RNo": 769,
+      "CountryCode": "CUB",
+      "CityName": "Cienfuegos",
+      "Population": "132,770"
+    },
+    {
+      "RNo": 770,
+      "CountryCode": "IDN",
+      "CityName": "Cilacap",
+      "Population": "206,900"
+    },
+    {
+      "RNo": 771,
+      "CountryCode": "IDN",
+      "CityName": "Cilegon",
+      "Population": "117,000"
+    },
+    {
+      "RNo": 772,
+      "CountryCode": "IDN",
+      "CityName": "Cimahi",
+      "Population": "344,600"
+    },
+    {
+      "RNo": 773,
+      "CountryCode": "IDN",
+      "CityName": "Cimanggis",
+      "Population": "205,100"
+    },
+    {
+      "RNo": 774,
+      "CountryCode": "USA",
+      "CityName": "Cincinnati",
+      "Population": "331,285"
+    },
+    {
+      "RNo": 775,
+      "CountryCode": "IDN",
+      "CityName": "Ciomas",
+      "Population": "187,400"
+    },
+    {
+      "RNo": 776,
+      "CountryCode": "IDN",
+      "CityName": "Ciparay",
+      "Population": "111,500"
+    },
+    {
+      "RNo": 777,
+      "CountryCode": "IDN",
+      "CityName": "Ciputat",
+      "Population": "270,800"
+    },
+    {
+      "RNo": 778,
+      "CountryCode": "UZB",
+      "CityName": "Circik",
+      "Population": "146,400"
+    },
+    {
+      "RNo": 779,
+      "CountryCode": "IDN",
+      "CityName": "Cirebon",
+      "Population": "254,406"
+    },
+    {
+      "RNo": 780,
+      "CountryCode": "IDN",
+      "CityName": "Citeureup",
+      "Population": "105,100"
+    },
+    {
+      "RNo": 781,
+      "CountryCode": "USA",
+      "CityName": "Citrus Heights",
+      "Population": "103,455"
+    },
+    {
+      "RNo": 782,
+      "CountryCode": "VAT",
+      "CityName": "CittÃ  del Vaticano",
+      "Population": "455"
+    },
+    {
+      "RNo": 783,
+      "CountryCode": "VEN",
+      "CityName": "Ciudad BolÃ­var",
+      "Population": "301,107"
+    },
+    {
+      "RNo": 784,
+      "CountryCode": "GTM",
+      "CityName": "Ciudad de Guatemala",
+      "Population": "823,301"
+    },
+    {
+      "RNo": 785,
+      "CountryCode": "MEX",
+      "CityName": "Ciudad de MÃ©xico",
+      "Population": "8,591,309"
+    },
+    {
+      "RNo": 786,
+      "CountryCode": "PAN",
+      "CityName": "Ciudad de PanamÃ¡",
+      "Population": "471,373"
+    },
+    {
+      "RNo": 787,
+      "CountryCode": "PRY",
+      "CityName": "Ciudad del Este",
+      "Population": "133,881"
+    },
+    {
+      "RNo": 788,
+      "CountryCode": "VEN",
+      "CityName": "Ciudad Guayana",
+      "Population": "663,713"
+    },
+    {
+      "RNo": 789,
+      "CountryCode": "VEN",
+      "CityName": "Ciudad Losada",
+      "Population": "134,501"
+    },
+    {
+      "RNo": 790,
+      "CountryCode": "MEX",
+      "CityName": "Ciudad Madero",
+      "Population": "182,012"
+    },
+    {
+      "RNo": 791,
+      "CountryCode": "VEN",
+      "CityName": "Ciudad Ojeda",
+      "Population": "99,354"
+    },
+    {
+      "RNo": 792,
+      "CountryCode": "MEX",
+      "CityName": "Ciudad Valles",
+      "Population": "146,411"
+    },
+    {
+      "RNo": 793,
+      "CountryCode": "CHN",
+      "CityName": "Cixi",
+      "Population": "107,329"
+    },
+    {
+      "RNo": 794,
+      "CountryCode": "UZB",
+      "CityName": "Cizah",
+      "Population": "124,800"
+    },
+    {
+      "RNo": 795,
+      "CountryCode": "USA",
+      "CityName": "Clarksville",
+      "Population": "108,787"
+    },
+    {
+      "RNo": 796,
+      "CountryCode": "USA",
+      "CityName": "Clearwater",
+      "Population": "99,936"
+    },
+    {
+      "RNo": 797,
+      "CountryCode": "FRA",
+      "CityName": "Clermont-Ferrand",
+      "Population": "137,140"
+    },
+    {
+      "RNo": 798,
+      "CountryCode": "USA",
+      "CityName": "Cleveland",
+      "Population": "478,403"
+    },
+    {
+      "RNo": 799,
+      "CountryCode": "ROM",
+      "CityName": "Cluj-Napoca",
+      "Population": "332,498"
+    },
+    {
+      "RNo": 800,
+      "CountryCode": "MEX",
+      "CityName": "Coacalco de BerriozÃ¡bal",
+      "Population": "252,270"
+    },
+    {
+      "RNo": 801,
+      "CountryCode": "MEX",
+      "CityName": "Coatzacoalcos",
+      "Population": "267,037"
+    },
+    {
+      "RNo": 802,
+      "CountryCode": "PRT",
+      "CityName": "CoÃ­mbra",
+      "Population": "96,100"
+    },
+    {
+      "RNo": 803,
+      "CountryCode": "BOL",
+      "CityName": "Cochabamba",
+      "Population": "482,800"
+    },
+    {
+      "RNo": 804,
+      "CountryCode": "IND",
+      "CityName": "Cochin (Kochi)",
+      "Population": "564,589"
+    },
+    {
+      "RNo": 805,
+      "CountryCode": "TCA",
+      "CityName": "Cockburn Town",
+      "Population": "4,800"
+    },
+    {
+      "RNo": 806,
+      "CountryCode": "BRA",
+      "CityName": "CodÃ³",
+      "Population": "103,153"
+    },
+    {
+      "RNo": 807,
+      "CountryCode": "IND",
+      "CityName": "Coimbatore",
+      "Population": "816,321"
+    },
+    {
+      "RNo": 808,
+      "CountryCode": "BRA",
+      "CityName": "Colatina",
+      "Population": "107,354"
+    },
+    {
+      "RNo": 809,
+      "CountryCode": "GBR",
+      "CityName": "Colchester",
+      "Population": "96,063"
+    },
+    {
+      "RNo": 810,
+      "CountryCode": "MEX",
+      "CityName": "Colima",
+      "Population": "129,454"
+    },
+    {
+      "RNo": 811,
+      "CountryCode": "BRA",
+      "CityName": "Colombo",
+      "Population": "177,764"
+    },
+    {
+      "RNo": 812,
+      "CountryCode": "LKA",
+      "CityName": "Colombo",
+      "Population": "645,000"
+    },
+    {
+      "RNo": 813,
+      "CountryCode": "USA",
+      "CityName": "Colorado Springs",
+      "Population": "360,890"
+    },
+    {
+      "RNo": 814,
+      "CountryCode": "USA",
+      "CityName": "Columbia",
+      "Population": "116,278"
+    },
+    {
+      "RNo": 815,
+      "CountryCode": "USA",
+      "CityName": "Columbus",
+      "Population": "186,291"
+    },
+    {
+      "RNo": 816,
+      "CountryCode": "USA",
+      "CityName": "Columbus",
+      "Population": "711,470"
+    },
+    {
+      "RNo": 817,
+      "CountryCode": "MEX",
+      "CityName": "Comalcalco",
+      "Population": "164,640"
+    },
+    {
+      "RNo": 818,
+      "CountryCode": "BGD",
+      "CityName": "Comilla",
+      "Population": "135,313"
+    },
+    {
+      "RNo": 819,
+      "CountryCode": "MEX",
+      "CityName": "ComitÃ¡n de DomÃ­nguez",
+      "Population": "104,986"
+    },
+    {
+      "RNo": 820,
+      "CountryCode": "ARG",
+      "CityName": "Comodoro Rivadavia",
+      "Population": "124,104"
+    },
+    {
+      "RNo": 821,
+      "CountryCode": "USA",
+      "CityName": "Compton",
+      "Population": "92,864"
+    },
+    {
+      "RNo": 822,
+      "CountryCode": "GIN",
+      "CityName": "Conakry",
+      "Population": "1,090,610"
+    },
+    {
+      "RNo": 823,
+      "CountryCode": "CHL",
+      "CityName": "ConcepciÃ³n",
+      "Population": "217,664"
+    },
+    {
+      "RNo": 824,
+      "CountryCode": "PHL",
+      "CityName": "Concepcion",
+      "Population": "115,171"
+    },
+    {
+      "RNo": 825,
+      "CountryCode": "USA",
+      "CityName": "Concord",
+      "Population": "121,780"
+    },
+    {
+      "RNo": 826,
+      "CountryCode": "ARG",
+      "CityName": "Concordia",
+      "Population": "116,485"
+    },
+    {
+      "RNo": 827,
+      "CountryCode": "BRA",
+      "CityName": "Conselheiro Lafaiete",
+      "Population": "97,507"
+    },
+    {
+      "RNo": 828,
+      "CountryCode": "ROM",
+      "CityName": "Constanta",
+      "Population": "342,264"
+    },
+    {
+      "RNo": 829,
+      "CountryCode": "DZA",
+      "CityName": "Constantine",
+      "Population": "443,727"
+    },
+    {
+      "RNo": 830,
+      "CountryCode": "BRA",
+      "CityName": "Contagem",
+      "Population": "520,801"
+    },
+    {
+      "RNo": 831,
+      "CountryCode": "CHL",
+      "CityName": "CopiapÃ³",
+      "Population": "120,128"
+    },
+    {
+      "RNo": 832,
+      "CountryCode": "CHL",
+      "CityName": "Coquimbo",
+      "Population": "143,353"
+    },
+    {
+      "RNo": 833,
+      "CountryCode": "CAN",
+      "CityName": "Coquitlam",
+      "Population": "101,820"
+    },
+    {
+      "RNo": 834,
+      "CountryCode": "USA",
+      "CityName": "Coral Springs",
+      "Population": "117,549"
+    },
+    {
+      "RNo": 835,
+      "CountryCode": "IRL",
+      "CityName": "Cork",
+      "Population": "127,187"
+    },
+    {
+      "RNo": 836,
+      "CountryCode": "USA",
+      "CityName": "Corona",
+      "Population": "124,966"
+    },
+    {
+      "RNo": 837,
+      "CountryCode": "CHL",
+      "CityName": "Coronel",
+      "Population": "93,061"
+    },
+    {
+      "RNo": 838,
+      "CountryCode": "BRA",
+      "CityName": "Coronel Fabriciano",
+      "Population": "95,933"
+    },
+    {
+      "RNo": 839,
+      "CountryCode": "USA",
+      "CityName": "Corpus Christi",
+      "Population": "277,454"
+    },
+    {
+      "RNo": 840,
+      "CountryCode": "ARG",
+      "CityName": "Corrientes",
+      "Population": "258,103"
+    },
+    {
+      "RNo": 841,
+      "CountryCode": "BRA",
+      "CityName": "CorumbÃ¡",
+      "Population": "90,111"
+    },
+    {
+      "RNo": 842,
+      "CountryCode": "MEX",
+      "CityName": "Cosoleacaque",
+      "Population": "97,199"
+    },
+    {
+      "RNo": 843,
+      "CountryCode": "USA",
+      "CityName": "Costa Mesa",
+      "Population": "108,724"
+    },
+    {
+      "RNo": 844,
+      "CountryCode": "PHL",
+      "CityName": "Cotabato",
+      "Population": "163,849"
+    },
+    {
+      "RNo": 845,
+      "CountryCode": "BRA",
+      "CityName": "Cotia",
+      "Population": "140,042"
+    },
+    {
+      "RNo": 846,
+      "CountryCode": "BEN",
+      "CityName": "Cotonou",
+      "Population": "536,827"
+    },
+    {
+      "RNo": 847,
+      "CountryCode": "DEU",
+      "CityName": "Cottbus",
+      "Population": "110,894"
+    },
+    {
+      "RNo": 848,
+      "CountryCode": "GBR",
+      "CityName": "Coventry",
+      "Population": "304,000"
+    },
+    {
+      "RNo": 849,
+      "CountryCode": "ROM",
+      "CityName": "Craiova",
+      "Population": "313,530"
+    },
+    {
+      "RNo": 850,
+      "CountryCode": "BRA",
+      "CityName": "Crato",
+      "Population": "98,965"
+    },
+    {
+      "RNo": 851,
+      "CountryCode": "GBR",
+      "CityName": "Crawley",
+      "Population": "97,000"
+    },
+    {
+      "RNo": 852,
+      "CountryCode": "BRA",
+      "CityName": "CriciÃºma",
+      "Population": "167,661"
+    },
+    {
+      "RNo": 853,
+      "CountryCode": "MEX",
+      "CityName": "CuauhtÃ©moc",
+      "Population": "124,279"
+    },
+    {
+      "RNo": 854,
+      "CountryCode": "MEX",
+      "CityName": "CuautitlÃ¡n Izcalli",
+      "Population": "452,976"
+    },
+    {
+      "RNo": 855,
+      "CountryCode": "MEX",
+      "CityName": "Cuautla",
+      "Population": "153,132"
+    },
+    {
+      "RNo": 856,
+      "CountryCode": "BRA",
+      "CityName": "CubatÃ£o",
+      "Population": "102,372"
+    },
+    {
+      "RNo": 857,
+      "CountryCode": "IND",
+      "CityName": "Cuddalore",
+      "Population": "153,086"
+    },
+    {
+      "RNo": 858,
+      "CountryCode": "IND",
+      "CityName": "Cuddapah",
+      "Population": "121,463"
+    },
+    {
+      "RNo": 859,
+      "CountryCode": "ECU",
+      "CityName": "Cuenca",
+      "Population": "270,353"
+    },
+    {
+      "RNo": 860,
+      "CountryCode": "MEX",
+      "CityName": "Cuernavaca",
+      "Population": "337,966"
+    },
+    {
+      "RNo": 861,
+      "CountryCode": "BRA",
+      "CityName": "CuiabÃ¡",
+      "Population": "453,813"
+    },
+    {
+      "RNo": 862,
+      "CountryCode": "MEX",
+      "CityName": "CuliacÃ¡n",
+      "Population": "744,859"
+    },
+    {
+      "RNo": 863,
+      "CountryCode": "VEN",
+      "CityName": "CumanÃ¡",
+      "Population": "293,105"
+    },
+    {
+      "RNo": 864,
+      "CountryCode": "MEX",
+      "CityName": "CunduacÃ¡n",
+      "Population": "104,164"
+    },
+    {
+      "RNo": 865,
+      "CountryCode": "CHL",
+      "CityName": "CuricÃ³",
+      "Population": "115,766"
+    },
+    {
+      "RNo": 866,
+      "CountryCode": "BRA",
+      "CityName": "Curitiba",
+      "Population": "1,584,232"
+    },
+    {
+      "RNo": 867,
+      "CountryCode": "PER",
+      "CityName": "Cusco",
+      "Population": "291,000"
+    },
+    {
+      "RNo": 868,
+      "CountryCode": "POL",
+      "CityName": "Czestochowa",
+      "Population": "257,812"
+    },
+    {
+      "RNo": 869,
+      "CountryCode": "VNM",
+      "CityName": "Da Lat",
+      "Population": "106,409"
+    },
+    {
+      "RNo": 870,
+      "CountryCode": "VNM",
+      "CityName": "Da Nang",
+      "Population": "382,674"
+    },
+    {
+      "RNo": 871,
+      "CountryCode": "CHN",
+      "CityName": "DaÂ´an",
+      "Population": "138,963"
+    },
+    {
+      "RNo": 872,
+      "CountryCode": "IND",
+      "CityName": "Dabgram",
+      "Population": "147,217"
+    },
+    {
+      "RNo": 873,
+      "CountryCode": "POL",
+      "CityName": "Dabrowa GÃ³rnicza",
+      "Population": "131,037"
+    },
+    {
+      "RNo": 874,
+      "CountryCode": "PAK",
+      "CityName": "Dadu",
+      "Population": "98,600"
+    },
+    {
+      "RNo": 875,
+      "CountryCode": "PHL",
+      "CityName": "Dagupan",
+      "Population": "130,328"
+    },
+    {
+      "RNo": 876,
+      "CountryCode": "JPN",
+      "CityName": "Daito",
+      "Population": "130,594"
+    },
+    {
+      "RNo": 877,
+      "CountryCode": "SEN",
+      "CityName": "Dakar",
+      "Population": "785,071"
+    },
+    {
+      "RNo": 878,
+      "CountryCode": "MHL",
+      "CityName": "Dalap-Uliga-Darrit",
+      "Population": "28,000"
+    },
+    {
+      "RNo": 879,
+      "CountryCode": "CHN",
+      "CityName": "Dali",
+      "Population": "136,554"
+    },
+    {
+      "RNo": 880,
+      "CountryCode": "CHN",
+      "CityName": "Dalian",
+      "Population": "2,697,000"
+    },
+    {
+      "RNo": 881,
+      "CountryCode": "USA",
+      "CityName": "Dallas",
+      "Population": "1,188,580"
+    },
+    {
+      "RNo": 882,
+      "CountryCode": "CIV",
+      "CityName": "Daloa",
+      "Population": "121,842"
+    },
+    {
+      "RNo": 883,
+      "CountryCode": "USA",
+      "CityName": "Daly City",
+      "Population": "103,621"
+    },
+    {
+      "RNo": 884,
+      "CountryCode": "EGY",
+      "CityName": "Damanhur",
+      "Population": "212,203"
+    },
+    {
+      "RNo": 885,
+      "CountryCode": "SYR",
+      "CityName": "Damascus",
+      "Population": "1,347,000"
+    },
+    {
+      "RNo": 886,
+      "CountryCode": "IND",
+      "CityName": "Damoh",
+      "Population": "95,661"
+    },
+    {
+      "RNo": 887,
+      "CountryCode": "PHL",
+      "CityName": "Danao",
+      "Population": "98,781"
+    },
+    {
+      "RNo": 888,
+      "CountryCode": "CHN",
+      "CityName": "Dandong",
+      "Population": "520,000"
+    },
+    {
+      "RNo": 889,
+      "CountryCode": "CHN",
+      "CityName": "Danjiangkou",
+      "Population": "103,211"
+    },
+    {
+      "RNo": 890,
+      "CountryCode": "CHN",
+      "CityName": "Danyang",
+      "Population": "169,603"
+    },
+    {
+      "RNo": 891,
+      "CountryCode": "CHN",
+      "CityName": "Daqing",
+      "Population": "660,000"
+    },
+    {
+      "RNo": 892,
+      "CountryCode": "TZA",
+      "CityName": "Dar es Salaam",
+      "Population": "1,747,000"
+    },
+    {
+      "RNo": 893,
+      "CountryCode": "PHL",
+      "CityName": "Daraga (Locsin)",
+      "Population": "101,031"
+    },
+    {
+      "RNo": 894,
+      "CountryCode": "IND",
+      "CityName": "Darbhanga",
+      "Population": "218,391"
+    },
+    {
+      "RNo": 895,
+      "CountryCode": "DEU",
+      "CityName": "Darmstadt",
+      "Population": "137,776"
+    },
+    {
+      "RNo": 896,
+      "CountryCode": "TKM",
+      "CityName": "Dashhowuz",
+      "Population": "141,800"
+    },
+    {
+      "RNo": 897,
+      "CountryCode": "PAK",
+      "CityName": "Daska",
+      "Population": "101,500"
+    },
+    {
+      "RNo": 898,
+      "CountryCode": "PHL",
+      "CityName": "DasmariÃ±as",
+      "Population": "379,520"
+    },
+    {
+      "RNo": 899,
+      "CountryCode": "CHN",
+      "CityName": "Datong",
+      "Population": "800,000"
+    },
+    {
+      "RNo": 900,
+      "CountryCode": "LVA",
+      "CityName": "Daugavpils",
+      "Population": "114,829"
+    },
+    {
+      "RNo": 901,
+      "CountryCode": "IND",
+      "CityName": "Davangere",
+      "Population": "266,082"
+    },
+    {
+      "RNo": 902,
+      "CountryCode": "PHL",
+      "CityName": "Davao",
+      "Population": "1,147,116"
+    },
+    {
+      "RNo": 903,
+      "CountryCode": "USA",
+      "CityName": "Davenport",
+      "Population": "98,256"
+    },
+    {
+      "RNo": 904,
+      "CountryCode": "CHN",
+      "CityName": "Daxian",
+      "Population": "188,101"
+    },
+    {
+      "RNo": 905,
+      "CountryCode": "SYR",
+      "CityName": "Dayr al-Zawr",
+      "Population": "140,459"
+    },
+    {
+      "RNo": 906,
+      "CountryCode": "USA",
+      "CityName": "Dayton",
+      "Population": "166,179"
+    },
+    {
+      "RNo": 907,
+      "CountryCode": "DEU",
+      "CityName": "DÃ¼ren",
+      "Population": "91,092"
+    },
+    {
+      "RNo": 908,
+      "CountryCode": "DEU",
+      "CityName": "DÃ¼sseldorf",
+      "Population": "568,855"
+    },
+    {
+      "RNo": 909,
+      "CountryCode": "NGA",
+      "CityName": "Deba Habe",
+      "Population": "138,600"
+    },
+    {
+      "RNo": 910,
+      "CountryCode": "HUN",
+      "CityName": "Debrecen",
+      "Population": "203,648"
+    },
+    {
+      "RNo": 911,
+      "CountryCode": "LKA",
+      "CityName": "Dehiwala",
+      "Population": "203,000"
+    },
+    {
+      "RNo": 912,
+      "CountryCode": "IND",
+      "CityName": "Dehra Dun",
+      "Population": "270,159"
+    },
+    {
+      "RNo": 913,
+      "CountryCode": "IND",
+      "CityName": "Dehri",
+      "Population": "94,526"
+    },
+    {
+      "RNo": 914,
+      "CountryCode": "NLD",
+      "CityName": "Delft",
+      "Population": "95,268"
+    },
+    {
+      "RNo": 915,
+      "CountryCode": "IND",
+      "CityName": "Delhi",
+      "Population": "7,206,704"
+    },
+    {
+      "RNo": 916,
+      "CountryCode": "IND",
+      "CityName": "Delhi Cantonment",
+      "Population": "94,326"
+    },
+    {
+      "RNo": 917,
+      "CountryCode": "MEX",
+      "CityName": "Delicias",
+      "Population": "116,132"
+    },
+    {
+      "RNo": 918,
+      "CountryCode": "HTI",
+      "CityName": "Delmas",
+      "Population": "240,429"
+    },
+    {
+      "RNo": 919,
+      "CountryCode": "CAN",
+      "CityName": "Delta",
+      "Population": "95,411"
+    },
+    {
+      "RNo": 920,
+      "CountryCode": "TUR",
+      "CityName": "Denizli",
+      "Population": "253,848"
+    },
+    {
+      "RNo": 921,
+      "CountryCode": "IDN",
+      "CityName": "Denpasar",
+      "Population": "435,000"
+    },
+    {
+      "RNo": 922,
+      "CountryCode": "USA",
+      "CityName": "Denver",
+      "Population": "554,636"
+    },
+    {
+      "RNo": 923,
+      "CountryCode": "IDN",
+      "CityName": "Depok",
+      "Population": "106,800"
+    },
+    {
+      "RNo": 924,
+      "CountryCode": "IDN",
+      "CityName": "Depok",
+      "Population": "365,200"
+    },
+    {
+      "RNo": 925,
+      "CountryCode": "PAK",
+      "CityName": "Dera Ghazi Khan",
+      "Population": "188,100"
+    },
+    {
+      "RNo": 926,
+      "CountryCode": "PAK",
+      "CityName": "Dera Ismail Khan",
+      "Population": "90,400"
+    },
+    {
+      "RNo": 927,
+      "CountryCode": "RUS",
+      "CityName": "Derbent",
+      "Population": "92,300"
+    },
+    {
+      "RNo": 928,
+      "CountryCode": "GBR",
+      "CityName": "Derby",
+      "Population": "236,000"
+    },
+    {
+      "RNo": 929,
+      "CountryCode": "USA",
+      "CityName": "Des Moines",
+      "Population": "198,682"
+    },
+    {
+      "RNo": 930,
+      "CountryCode": "ETH",
+      "CityName": "Dese",
+      "Population": "97,314"
+    },
+    {
+      "RNo": 931,
+      "CountryCode": "USA",
+      "CityName": "Detroit",
+      "Population": "951,270"
+    },
+    {
+      "RNo": 932,
+      "CountryCode": "IND",
+      "CityName": "Dewas",
+      "Population": "164,364"
+    },
+    {
+      "RNo": 933,
+      "CountryCode": "CHN",
+      "CityName": "Deyang",
+      "Population": "182,488"
+    },
+    {
+      "RNo": 934,
+      "CountryCode": "IRN",
+      "CityName": "Dezful",
+      "Population": "202,639"
+    },
+    {
+      "RNo": 935,
+      "CountryCode": "CHN",
+      "CityName": "Dezhou",
+      "Population": "195,485"
+    },
+    {
+      "RNo": 936,
+      "CountryCode": "BGD",
+      "CityName": "Dhaka",
+      "Population": "3,612,850"
+    },
+    {
+      "RNo": 937,
+      "CountryCode": "IND",
+      "CityName": "Dhanbad",
+      "Population": "151,789"
+    },
+    {
+      "RNo": 938,
+      "CountryCode": "IND",
+      "CityName": "Dhule (Dhulia)",
+      "Population": "278,317"
+    },
+    {
+      "RNo": 939,
+      "CountryCode": "BRA",
+      "CityName": "Diadema",
+      "Population": "335,078"
+    },
+    {
+      "RNo": 940,
+      "CountryCode": "IND",
+      "CityName": "Dibrugarh",
+      "Population": "120,127"
+    },
+    {
+      "RNo": 941,
+      "CountryCode": "PHL",
+      "CityName": "Digos",
+      "Population": "125,171"
+    },
+    {
+      "RNo": 942,
+      "CountryCode": "FRA",
+      "CityName": "Dijon",
+      "Population": "149,867"
+    },
+    {
+      "RNo": 943,
+      "CountryCode": "TMP",
+      "CityName": "Dili",
+      "Population": "47,900"
+    },
+    {
+      "RNo": 944,
+      "CountryCode": "RUS",
+      "CityName": "Dimitrovgrad",
+      "Population": "137,000"
+    },
+    {
+      "RNo": 945,
+      "CountryCode": "BGD",
+      "CityName": "Dinajpur",
+      "Population": "127,815"
+    },
+    {
+      "RNo": 946,
+      "CountryCode": "IND",
+      "CityName": "Dindigul",
+      "Population": "182,477"
+    },
+    {
+      "RNo": 947,
+      "CountryCode": "SEN",
+      "CityName": "Diourbel",
+      "Population": "99,400"
+    },
+    {
+      "RNo": 948,
+      "CountryCode": "PHL",
+      "CityName": "Dipolog",
+      "Population": "99,862"
+    },
+    {
+      "RNo": 949,
+      "CountryCode": "ETH",
+      "CityName": "Dire Dawa",
+      "Population": "164,851"
+    },
+    {
+      "RNo": 950,
+      "CountryCode": "EGY",
+      "CityName": "Disuq",
+      "Population": "91,300"
+    },
+    {
+      "RNo": 951,
+      "CountryCode": "BRA",
+      "CityName": "DivinÃ³polis",
+      "Population": "185,047"
+    },
+    {
+      "RNo": 952,
+      "CountryCode": "TUR",
+      "CityName": "Diyarbakir",
+      "Population": "479,884"
+    },
+    {
+      "RNo": 953,
+      "CountryCode": "DJI",
+      "CityName": "Djibouti",
+      "Population": "383,000"
+    },
+    {
+      "RNo": 954,
+      "CountryCode": "BEN",
+      "CityName": "Djougou",
+      "Population": "134,099"
+    },
+    {
+      "RNo": 955,
+      "CountryCode": "UKR",
+      "CityName": "Dniprodzerzynsk",
+      "Population": "270,000"
+    },
+    {
+      "RNo": 956,
+      "CountryCode": "UKR",
+      "CityName": "Dnipropetrovsk",
+      "Population": "1,103,000"
+    },
+    {
+      "RNo": 957,
+      "CountryCode": "BGR",
+      "CityName": "Dobric",
+      "Population": "100,399"
+    },
+    {
+      "RNo": 958,
+      "CountryCode": "TZA",
+      "CityName": "Dodoma",
+      "Population": "189,000"
+    },
+    {
+      "RNo": 959,
+      "CountryCode": "QAT",
+      "CityName": "Doha",
+      "Population": "355,000"
+    },
+    {
+      "RNo": 960,
+      "CountryCode": "MEX",
+      "CityName": "Dolores Hidalgo",
+      "Population": "128,675"
+    },
+    {
+      "RNo": 961,
+      "CountryCode": "UKR",
+      "CityName": "Donetsk",
+      "Population": "1,050,000"
+    },
+    {
+      "RNo": 962,
+      "CountryCode": "CHN",
+      "CityName": "Dongtai",
+      "Population": "192,247"
+    },
+    {
+      "RNo": 963,
+      "CountryCode": "CHN",
+      "CityName": "Dongwan",
+      "Population": "308,669"
+    },
+    {
+      "RNo": 964,
+      "CountryCode": "CHN",
+      "CityName": "Dongying",
+      "Population": "281,728"
+    },
+    {
+      "RNo": 965,
+      "CountryCode": "ESP",
+      "CityName": "Donostia-San SebastiÃ¡n",
+      "Population": "179,208"
+    },
+    {
+      "RNo": 966,
+      "CountryCode": "NLD",
+      "CityName": "Dordrecht",
+      "Population": "119,811"
+    },
+    {
+      "RNo": 967,
+      "CountryCode": "DEU",
+      "CityName": "Dortmund",
+      "Population": "590,213"
+    },
+    {
+      "RNo": 968,
+      "CountryCode": "ESP",
+      "CityName": "Dos Hermanas",
+      "Population": "94,591"
+    },
+    {
+      "RNo": 969,
+      "CountryCode": "COL",
+      "CityName": "Dos Quebradas",
+      "Population": "159,363"
+    },
+    {
+      "RNo": 970,
+      "CountryCode": "CMR",
+      "CityName": "Douala",
+      "Population": "1,448,300"
+    },
+    {
+      "RNo": 971,
+      "CountryCode": "GBR",
+      "CityName": "Douglas",
+      "Population": "23,487"
+    },
+    {
+      "RNo": 972,
+      "CountryCode": "BRA",
+      "CityName": "Dourados",
+      "Population": "164,716"
+    },
+    {
+      "RNo": 973,
+      "CountryCode": "USA",
+      "CityName": "Downey",
+      "Population": "107,323"
+    },
+    {
+      "RNo": 974,
+      "CountryCode": "DEU",
+      "CityName": "Dresden",
+      "Population": "476,668"
+    },
+    {
+      "RNo": 975,
+      "CountryCode": "ROM",
+      "CityName": "Drobeta-Turnu Severin",
+      "Population": "117,865"
+    },
+    {
+      "RNo": 976,
+      "CountryCode": "ARE",
+      "CityName": "Dubai",
+      "Population": "669,181"
+    },
+    {
+      "RNo": 977,
+      "CountryCode": "IRL",
+      "CityName": "Dublin",
+      "Population": "481,854"
+    },
+    {
+      "RNo": 978,
+      "CountryCode": "GBR",
+      "CityName": "Dudley",
+      "Population": "192,171"
+    },
+    {
+      "RNo": 979,
+      "CountryCode": "DEU",
+      "CityName": "Duisburg",
+      "Population": "519,793"
+    },
+    {
+      "RNo": 980,
+      "CountryCode": "CHN",
+      "CityName": "Dujiangyan",
+      "Population": "123,357"
+    },
+    {
+      "RNo": 981,
+      "CountryCode": "SYR",
+      "CityName": "Duma",
+      "Population": "131,158"
+    },
+    {
+      "RNo": 982,
+      "CountryCode": "PHL",
+      "CityName": "Dumaguete",
+      "Population": "102,265"
+    },
+    {
+      "RNo": 983,
+      "CountryCode": "GBR",
+      "CityName": "Dundee",
+      "Population": "146,690"
+    },
+    {
+      "RNo": 984,
+      "CountryCode": "NZL",
+      "CityName": "Dunedin",
+      "Population": "119,600"
+    },
+    {
+      "RNo": 985,
+      "CountryCode": "CHN",
+      "CityName": "Dunhua",
+      "Population": "235,100"
+    },
+    {
+      "RNo": 986,
+      "CountryCode": "BRA",
+      "CityName": "Duque de Caxias",
+      "Population": "746,758"
+    },
+    {
+      "RNo": 987,
+      "CountryCode": "ECU",
+      "CityName": "Duran [Eloy Alfaro]",
+      "Population": "152,514"
+    },
+    {
+      "RNo": 988,
+      "CountryCode": "MEX",
+      "CityName": "Durango",
+      "Population": "490,524"
+    },
+    {
+      "RNo": 989,
+      "CountryCode": "ZAF",
+      "CityName": "Durban",
+      "Population": "566,120"
+    },
+    {
+      "RNo": 990,
+      "CountryCode": "IND",
+      "CityName": "Durg",
+      "Population": "150,645"
+    },
+    {
+      "RNo": 991,
+      "CountryCode": "IND",
+      "CityName": "Durgapur",
+      "Population": "425,836"
+    },
+    {
+      "RNo": 992,
+      "CountryCode": "USA",
+      "CityName": "Durham",
+      "Population": "187,035"
+    },
+    {
+      "RNo": 993,
+      "CountryCode": "TJK",
+      "CityName": "Dushanbe",
+      "Population": "524,000"
+    },
+    {
+      "RNo": 994,
+      "CountryCode": "CHN",
+      "CityName": "Duyun",
+      "Population": "132,971"
+    },
+    {
+      "RNo": 995,
+      "CountryCode": "RUS",
+      "CityName": "Dzerzinsk",
+      "Population": "277,100"
+    },
+    {
+      "RNo": 996,
+      "CountryCode": "ZAF",
+      "CityName": "East London",
+      "Population": "221,047"
+    },
+    {
+      "RNo": 997,
+      "CountryCode": "USA",
+      "CityName": "East Los Angeles",
+      "Population": "126,379"
+    },
+    {
+      "RNo": 998,
+      "CountryCode": "CAN",
+      "CityName": "East York",
+      "Population": "114,034"
+    },
+    {
+      "RNo": 999,
+      "CountryCode": "GBR",
+      "CityName": "Eastbourne",
+      "Population": "90,000"
+    }
+  ]
+}
